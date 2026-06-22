@@ -63,7 +63,7 @@ The Latin consonants are generally identical in pronunciation with their English
 **g** as the **g** of **g**et (hard **g**) 
 **h** as the **h** of **h**at 
 
-OBSERVATION
+**OBSERVATION**
 - h represents the expelling of air (aspiration). 
 
 **i**, as consonant, as the **y** of **y**awn 
@@ -190,7 +190,7 @@ When a word is divided into syllables,
 
 The *last* syllable in a Latin word is called the **ultima** (< **syllaba ultima**, “last syllable”). The *second* syllable from the end is called the **penult** (< **syllaba paenultima**, “almost-last syllable”). The *third* syllable from the end is called the **antepenult** (< **syllaba antepaenultima**, “before-the-almost-last syllable”). 
 
-ONLY THE *PENULT* OR THE *ANTEPENULT* OF A LATIN WORD MAY BE STRESSED.* If a word has only two syllables, the penult is stressed.* The following words are stressed on the penult because they have two syllables *only*. Practice pronouncing them out loud, stressing the penult. 
+ONLY THE *PENULT* OR THE *ANTEPENULT* OF A LATIN WORD MAY BE STRESSED. *If a word has only two syllables, the penult is stressed.* The following words are stressed on the penult because they have two syllables *only*. Practice pronouncing them out loud, stressing the penult. 
 
 - **ta**men
 - **cōn**sul
