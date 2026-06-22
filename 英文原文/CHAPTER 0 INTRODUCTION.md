@@ -1,4 +1,4 @@
-![](Indo-European%20Family.jpg)
+![](../pics/Indo-European%20Family.jpg)
 Figure 1. This chart shows the principal languages of the Indo-European family, arranged in a diagrammatic form that displays their genetic relations and loosely suggests their geographic distribution. Copyright © 1981 by Houghton Mifflin Company. Adapted and reproduced by permission from *The American Heritage Dictionary of the English Language*.
 
 # INTRODUCTION
