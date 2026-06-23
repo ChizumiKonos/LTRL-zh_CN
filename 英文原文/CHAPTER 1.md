@@ -89,7 +89,7 @@ Prepositions that take the accusative emphasize the idea of motion toward, into,
 
 ➤ **in** may take either the accusative or the ablative case. When it takes the accusative, it means “into” or “onto.” By extension of this meaning it may also mean “against,” especially when the noun in the accusative case refers to a person or people. When it takes the ablative case, it expresses location and means either “in” or “on.” These differences in meaning are illustrated in the diagram that follows. 
 
-![](../pics/preposition.svg)
+![](../pics/preposition.svg)  
 Figure 2. Prepositions
 
 ➤ **et** is a **coordinating conjunction**. This means that it connects only parallel or grammatically balanced words, phrases, or clauses. When two nouns are connected, they must be in the same case: for example, **nautārum et agricolārum** (of the sailors and of the farmers \[genitive\]). Parts of speech other than nouns may also be connected by **et**. For example, in the phrases “tall and snow-covered,” “he sings and he dances,” “in Italy and in Gaul,” **et** could again be used to connect two adjectives, two verb phrases, or two prepositional phrases. 
@@ -151,7 +151,7 @@ nouns, each case with its own grammatical functions. Latin has only six cases, w
 
 ### Nominative Case
 
-— used for the *subject* of a sentence
+— used for the *subject* of a sentence  
 — used for the *predicate nominative*
 
 The two essential elements of every sentence are the *subject* and the *predicate*. The subject is *that which is spoken about*, and the **predicate** is *all that is said about the subject*. For example:
@@ -170,7 +170,7 @@ In these sentences, “John” and “the frog” are subjects, while “a waite
 
 ### Genitive Case
 
-— used to qualify or limit another noun in a variety of ways
+— used to qualify or limit another noun in a variety of ways  
 — usually corresponds to a translation using the English preposition *of"
 
 In the phrases "the house of friends," "a fear of snakes," and "a jar of pennies," the words "of friends," "of snakes," and "of pennies" *qualify* or *limit* in a variety of ways the nouns on which they depend. "Of friends," "of snakes," and "of pennies" would be expressed in Latin by "friends," "snakes," and "pennies" in the genitive case *with no preposition*; that is, the genitive case ending *contains the idea of* “of” *within it*.
@@ -179,7 +179,7 @@ One idea commonly expressed by the genitive case is that of ownership or possess
 
 ### Dative Case
 
-— used to express *the person or thing interested in or affected* by the action of a verb
+— used to express *the person or thing interested in or affected* by the action of a verb  
 — usually corresponds to a translation using the English prepositions “(with
 reference) to” or “for”
 
@@ -189,7 +189,7 @@ In the sentence “The girl gives a toy to the cat” or “The girl gives the c
 
 ### Accusative Case
 
-— used for the *direct object* of a verb
+— used for the *direct object* of a verb  
 — used following certain prepositions
 
 In the sentence “The poet writes poems,” “poems” is the *direct object* of the verb “writes” because the action of the verb “writes” is directly exerted on the object “poems.” The word “poems” would be expressed in Latin in the accusative case, and the syntax of that word would be **Accusative, Direct Object**.
@@ -198,8 +198,8 @@ In addition to being used to express the direct object of a verb, the accusative
 
 ### Ablative Case
 
-— used to express separation (original function of the ablative case); in this usage, corresponds to a translation using the English preposition “from”
-— also expresses association or instrument; in this usage, corresponds to a translation using the English prepositions “with” or “by”
+— used to express separation (original function of the ablative case); in this usage, corresponds to a translation using the English preposition “from”  
+— also expresses association or instrument; in this usage, corresponds to a translation using the English prepositions “with” or “by”  
 — also expresses location (in space or time); in this usage, corresponds to a translation using the English prepositions “in,” “on,” or “at”
 
 #### Separation
