@@ -58,10 +58,10 @@ The Latin alphabet is almost the same as the English alphabet. It lacks a j and 
 
 The Latin consonants are generally identical in pronunciation with their English equivalents. Exceptions are: 
 
-**b** as **b**, but **bs** as the **ps** of ta**ps**; **bt** as the **pt** of a**pt** 
-**c** as the **c** of **c**art (hard **c**) 
-**g** as the **g** of **g**et (hard **g**) 
-**h** as the **h** of **h**at 
+**b** as **b**, but **bs** as the **ps** of ta**ps**; **bt** as the **pt** of a**pt**   
+**c** as the **c** of **c**art (hard **c**)   
+**g** as the **g** of **g**et (hard **g**)   
+**h** as the **h** of **h**at   
 
 **OBSERVATION**
 - h represents the expelling of air (aspiration). 
@@ -73,26 +73,26 @@ The Latin consonants are generally identical in pronunciation with their English
 1. **i** is consonantal at the beginning of a word when followed by a vowel (**Iūnō**, pronounced “*Yūnō*”) and in the middle of a word when it falls between vowels (**biiugis**, pronounced “*bi-yugis*”). i may also be consonantal in the middle of a compound (that is, a word made with a root word and a prefix (**iniustus** \[\< **in-** + **iustus**\], pronounced “*in-yustus*”). 
 2. An exception to this rule occurs in certain words borrowed from Greek, in which an initial **i** is pronounced as a vowel (**iambus**, pronounced “*i-ambus*”). 
 
-**n** as **n**, but **nc** as the **nk** of ba**nk**; **ng** as the **ng** of ha**ng**
+**n** as **n**, but **nc** as the **nk** of ba**nk**; **ng** as the **ng** of ha**ng**  
 **qu** as the **qu** of **qu**it 
 
 **OBSERVATION**
 
 - Although **qu** is written with a **-u,** this **u** is the consonantal **u** (**v**). This spelling convention is also used in the combinations **su** and **gu** , which in some Latin words are pronounced as the **su** of per**su**ade and the **gu** of an**gu**ish. 
 
-**r** as a rolled **r** 
-**s** as the **s** of **s**erpent 
-**v** (consonantal **u**) as the **w** of **w**et 
-**x** as the **x** of a**x**e 
+**r** as a rolled **r**   
+**s** as the **s** of **s**erpent   
+**v** (consonantal **u**) as the **w** of **w**et   
+**x** as the **x** of a**x**e   
 **z** as the **dz** of gadzooks 
 
 **OBSERVATION**
 
 - **z** is a consonant representing the Greek *zeta* (**Z**), which represented the sound of two consonants in Greek (**zd** or **dz**). 
 
-**ch** as the **ch** of **ch**aracter 
-**ph** as the **p** of **p**eople 
-**th** as the **t** of **t**ea 
+**ch** as the **ch** of **ch**aracter   
+**ph** as the **p** of **p**eople   
+**th** as the **t** of **t**ea   
 
 **OBSERVATION**
 
@@ -122,15 +122,15 @@ A MACRON ON A LONG VOWEL SHOULD BE CONSIDERED PART OF THE SPELLING OF A LATIN WO
 
 The vowels are pronounced as follows: 
 
-**a** as the **a** of **a**lert or the **u** of c**u**p
-**ā** as the **a** of f**a**ther
-**e** as the **e** of p**e**t
-**ē** as the **a** of f**a**te
-**i** as the **i** of f**i**t
-**ī** as the **ee** of f**ee**t
-**o** as the **o** of s**o**ft or the **au** of c**au**ght
-**ō** as the **o** of h**o**pe
-**u** as the **u** of p**u**t
+**a** as the **a** of **a**lert or the **u** of c**u**p  
+**ā** as the **a** of f**a**ther  
+**e** as the **e** of p**e**t  
+**ē** as the **a** of f**a**te  
+**i** as the **i** of f**i**t  
+**ī** as the **ee** of f**ee**t  
+**o** as the **o** of s**o**ft or the **au** of c**au**ght  
+**ō** as the **o** of h**o**pe  
+**u** as the **u** of p**u**t  
 **ū** as the **oo** of f**oo**l 
 
 **OBSERVATIONS**
@@ -142,12 +142,12 @@ The vowels are pronounced as follows:
 
 A diphthong is a *single* vocalic sound made from pronouncing *two vowels as one*. (The word *diphthong* in Greek means “double sound.”) There are six diphthongs in Latin, and they are pronounced as follows: 
 
-**ae** as the **i** of h**i**gh
-**oe** as the **oy** of b**oy**
-**ei** as the **ay** of d**ay**
-**ui** as the **wi** of t**wi**n
-**au** as the **ow** of h**ow**
-**eu** as **a** combination of **e** + **u** 
+**ae** as the **i** of h**i**gh  
+**oe** as the **oy** of b**oy**  
+**ei** as the **ay** of d**ay**  
+**ui** as the **wi** of t**wi**n  
+**au** as the **ow** of h**ow**  
+**eu** as a combination of **e** + **u** 
 
 **OBSERVATION**
 
