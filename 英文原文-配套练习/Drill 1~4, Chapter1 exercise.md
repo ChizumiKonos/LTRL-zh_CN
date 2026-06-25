@@ -1,43 +1,45 @@
 ## Drill 1 The Latin Noun
 
-A. The three properties of the Latin noun are \_\_\_\_, \_\_\_\_, and \_\_\_\_. 
-B. Recite from memory in order the names of the six cases of the noun in Latin. 
-C. Write next to each abbreviation the full name of each case and its basic function(s): 
-    - Nom. 
-    - Gen. 
-    - Dat. 
-    - Acc. 
-    - Abl. 
-    - Voc. 
+A. The three properties of the Latin noun are \_\_\_\_, \_\_\_\_, and \_\_\_\_.   
+B. Recite from memory in order the names of the six cases of the noun in Latin.   
+C. Write next to each abbreviation the full name of each case and its basic function(s):
+- Nom. 
+- Gen. 
+- Dat. 
+- Acc. 
+- Abl. 
+- Voc. 
 
 D. Fill in the blanks. Do not use abbreviations. 
-    1. Latin uses the \_\_\_\_ case to express the subject of a sentence. 
-    2. “From” indicates an idea of \_\_\_\_ and is expressed by the \_\_\_\_ case. 
-    3. The genitive case is most often translated with the English preposition \_\_\_\_. 
-    4. In the sentence “He walks with a cane,” the syntax of “with a cane” would be \_\_\_\_ of \_\_\_\_. The Latin preposition cum, “with,” would/would not (circle one) be used. 
-    5. “To” and “for” are English prepositions used to translate Latin nouns in the \_\_\_\_ case. 
-    6. In the sentence “She is a dancer,” the syntax of “dancer” in Latin would be \_\_\_\_, and the \_\_\_\_ case would be used for “dancer.” 
-    7. In the sentence “We took a trip with friends,” the syntax of “(with) friends” in Latin would be \_\_\_\_ of \_\_\_\_. The Latin preposition cum, “with,” would/would not (circle one) be used. 
-    8. The direct object of a verb appears in Latin in the \_\_\_\_ case. 
-    9. Five English prepositions that may be used when translating the Latin ablative case are: \_\_\_\_, \_\_\_\_, \_\_\_\_, \_\_\_\_, and \_\_\_\_. 
-    10. In the sentence “He showed the man a book,” the Latin syntax of “man” would be \_\_\_\_ of \_\_\_\_. The Latin syntax of “book” would be \_\_\_\_, \_\_\_\_. 
-    11. The vocative case is used to express \_\_\_\_. 
-    12. In the sentence "The boy will become a man," the Latin syntax of "man" would be \_\_\_\_. 
+
+1. Latin uses the \_\_\_\_ case to express the subject of a sentence. 
+2. “From” indicates an idea of \_\_\_\_ and is expressed by the \_\_\_\_ case. 
+3. The genitive case is most often translated with the English preposition \_\_\_\_. 
+4. In the sentence “He walks with a cane,” the syntax of “with a cane” would be \_\_\_\_ of \_\_\_\_. The Latin preposition cum, “with,” would/would not (circle one) be used. 
+5. “To” and “for” are English prepositions used to translate Latin nouns in the \_\_\_\_ case. 
+6. In the sentence “She is a dancer,” the syntax of “dancer” in Latin would be \_\_\_\_, and the \_\_\_\_ case would be used for “dancer.” 
+7. In the sentence “We took a trip with friends,” the syntax of “(with) friends” in Latin would be \_\_\_\_ of \_\_\_\_. The Latin preposition cum, “with,” would/would not (circle one) be used. 
+8. The direct object of a verb appears in Latin in the \_\_\_\_ case. 
+9. Five English prepositions that may be used when translating the Latin ablative case are: \_\_\_\_, \_\_\_\_, \_\_\_\_, \_\_\_\_, and \_\_\_\_. 
+10. In the sentence “He showed the man a book,” the Latin syntax of “man” would be \_\_\_\_ of \_\_\_\_. The Latin syntax of “book” would be \_\_\_\_, \_\_\_\_. 
+11. The vocative case is used to express \_\_\_\_. 
+12. In the sentence "The boy will become a man," the Latin syntax of "man" would be \_\_\_\_. 
 
 ## Drill 2–3 The Five Declensions; First Declension
 
 A. Fill in the blanks. Do not use abbreviations. 
-    1. There are \_\_\_\_ families of nouns in Latin, and they are called \_\_\_\_. 
-    2. A full vocabulary entry for a Latin noun contains four elements: \_\_\_\_, \_\_\_\_, \_\_\_\_, and \_\_\_\_. 
-    3. The genitive singular form is important for two reasons: 
-        a.   
-        b. 
-    4. When one generates a complete set of forms for a Latin noun, one is said to \_\_\_\_ that noun. 
-    5. To find the stem of any Latin noun, \_\_\_\_. 
 
-B. Recite from memory the endings of the first declension. Be sure to go down the singular column and then down the plural. 
-C. On a separate sheet, decline fully the nouns **anima**, **poēta**, and **via**. 
-D. Write these forms in Latin. 
+1. There are \_\_\_\_ families of nouns in Latin, and they are called \_\_\_\_. 
+2. A full vocabulary entry for a Latin noun contains four elements: \_\_\_\_, \_\_\_\_, \_\_\_\_, and \_\_\_\_. 
+3. The genitive singular form is important for two reasons:   
+    a.   
+    b. 
+4. When one generates a complete set of forms for a Latin noun, one is said to \_\_\_\_ that noun. 
+5. To find the stem of any Latin noun, \_\_\_\_. 
+
+B. Recite from memory the endings of the first declension. Be sure to go down the singular column and then down the plural.   
+C. On a separate sheet, decline fully the nouns **anima**, **poēta**, and **via**.   
+D. Write these forms in Latin.   
 
 Example: gen. pl. of fīlia → fīliārum
 
@@ -64,16 +66,16 @@ Example: gen. pl. of fīlia → fīliārum
 21. abl. sing. of pecūnia 
 22. abl. pl. of īnsula
 
-E. Give case and number of each form and translate. Give all possibilities. $^{1}$ 
+E. Give case and number of each form and translate. Give all possibilities. [^1]
 
 [^1]: The number of possibilities is given in parentheses when it is greater than one. 
 
 Example: puellae (4) 
 
-gen. sing.: of the girl 
-dat. sing.: to/for the girl 
-nom. pl.: girls (subj./pred. nom.) 
-voc. pl.: girls (d.a.) 
+gen. sing.: of the girl   
+dat. sing.: to/for the girl   
+nom. pl.: girls (subj./pred. nom.)   
+voc. pl.: girls (d.a.)   
 
 1. puellās  
 2. fēminārum 
@@ -165,10 +167,10 @@ Example: soul → anima, animae f.
 
 ## Drill 4 Second Declension
 
-A. Recite from memory the endings for masculine and feminine nouns of the second declension. 
-B. On a separate sheet decline fully the nouns ager, fīlius, and dominus.
-C. Recite from memory the endings for neuter nouns of the second declension. 
-D. On a separate sheet decline fully the nouns **dōnum**, **cōnsilium**, and **verbum**. 
+A. Recite from memory the endings for masculine and feminine nouns of the second declension.   
+B. On a separate sheet decline fully the nouns ager, fīlius, and dominus.  
+C. Recite from memory the endings for neuter nouns of the second declension.   
+D. On a separate sheet decline fully the nouns **dōnum**, **cōnsilium**, and **verbum**.
 
 E. Write these forms in Latin. 
 
@@ -318,10 +320,10 @@ A. Translate these phrases. Give all possibilities.
 
 Example: nautae et agricolae 
 
-of the sailor and of the farmer 
-to/for the sailor and to/for the farmer 
-the sailors and the farmers (subj./pred. nom.) 
-sailors and farmers (d.a.) 
+of the sailor and of the farmer   
+to/for the sailor and to/for the farmer   
+the sailors and the farmers (subj./pred. nom.)   
+sailors and farmers (d.a.)   
 
 1. puellae puerōque 
 2. cōnsiliō deōrum 
