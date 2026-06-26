@@ -27,7 +27,7 @@ To decline a noun:
 | Dative of Indirect Object | 1. Expresses the person or thing *indirectly* interested in the action of the verb<br>2. Most often occurs with verbs of *giving, showing*, or *telling* |
 | Accusative, Direct Object | Expresses the person or thing *receiving the action of the verb*                                                                                         |
 | Ablative of Accompaniment | 1. Expresses the person or thing that *accompanies* another noun in the sentence<br>2. *Always* uses the preposition **cum**                             |
-| Ablative of Means         | 1. Expresses the *thing by means of which* an action is perfromed<br>2. *Never* uses a preposition                                                       |
+| Ablative of Means         | 1. Expresses the *thing by means of which* an action is performed<br>2. *Never* uses a preposition                                                       |
 [^1]: Some second-declension nouns do NOT use this ending but instead end in either **-r** or **-er**. The nominative singular must be memorized as part of the full vocabulary entry.
 [^2]: nom. sing. **-us** > voc. sing. **-e** (serv**us** > serv**e**)  
 nom. sing. **-ius** > voc. sing. **-ī** (fīl**ius** > fīli**ī**)  

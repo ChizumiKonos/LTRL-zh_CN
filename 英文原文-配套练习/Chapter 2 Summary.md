@@ -6,7 +6,7 @@
 
 | Present                                             | Imperfect                                           | Future                                              |
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
-| Take stem from and prin. part (by dropping **-re**) | Take stem from and prin. part (by dropping **-re**) | Take stem from and prin. part (by dropping **-re**) |
+| Take stem from 2nd prin. part (by dropping **-re**) | Take stem from 2nd prin. part (by dropping **-re**) | Take stem from 2nd prin. part (by dropping **-re**) |
 |                                                     | Add **-bā-**                                        | Add **-bi-**                                        |
 | Add active personal endings:                        | Add active personal endings:                        | Add active personal endings:                        |
 | *Singular*                                          | *Singular*                                          | *Singular*                                          |
@@ -17,6 +17,7 @@
 | **-mus**                                            | **-mus**                                            | **-mus**                                            |
 | **-tis**                                            | **-tis**                                            | **-tis**                                            |
 | **-nt**                                             | **-nt**                                             | **-nt**[^3]                                         |
+
 LONG VOWELS RULE: LONG VOWELS SHORTEN BEFORE **-m, -t, -nt**.
 
 [^1]: But **vocō** (not \*vocāō); **moveō** (NOT \*movēō).
