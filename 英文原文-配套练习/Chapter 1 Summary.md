@@ -8,7 +8,7 @@
 | Nominative      | 1. subject<br>2. predicate nominative            | **-a**           | **-ae**   | **-us/—**[^1]                | **-ī**    | **-um**                  | **-a**    |
 | Genitive        | "of"                                             | **-ae**          | **-ārum** | **-ī**                       | **-ōrum** | **-ī**                   | **-ōrum** |
 | Dative          | "to", "for"                                      | **-ae**          | **-īs**   | **-ō**                       | **-īs**   | **-ō**                   | **-īs**   |
-| Accusative      | 1. direct object<br>2. with certain prepositions | **-am**          | **-ās**   | **-um**                      | **-ōS**   | **-um**                  | **-a**    |
+| Accusative      | 1. direct object<br>2. with certain prepositions | **-am**          | **-ās**   | **-um**                      | **-ōs**   | **-um**                  | **-a**    |
 | Ablative        | 1. "from"<br>2. "by", "with"<br>3. "in", "on"    | **-ā**           | **-īs**   | **-ō**                       | **-īs**   | **-ō**                   | **-īs**   |
 | Vocative        | direct address                                   | **-a**           | **-ae**   | **-e**[^2]                   | **-ī**    | **-um**                  | **-a**    |
 
