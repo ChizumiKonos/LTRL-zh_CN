@@ -2,50 +2,50 @@
 
 ## Vocabulary
 
-**cūra, cūrae** *f.* care, concern; anxiety
-➤ **īra, īrae** *f.* anger, wrath
-**poena, poenae** *f.* punishment, penalty
-**sapientia, sapientiae** *f.* wisdom
+**cūra, cūrae** *f.* care, concern; anxiety  
+➤ **īra, īrae** *f.* anger, wrath  
+**poena, poenae** *f.* punishment, penalty  
+**sapientia, sapientiae** *f.* wisdom  
 **vīta, vītae** *f.* life
 
-➤ **animus, animī** *m.* (rational) soul, mind; spirit; *pl.*, strong feelings
-➤ **arma, armorum** *n.* *pl.* arms, weapons
-**studium, studiī** *n.* zeal, enthusiasm; pursuit, study
-**vēlum, velī** *n.* sail
+➤ **animus, animī** *m.* (rational) soul, mind; spirit; *pl.*, strong feelings  
+➤ **arma, armorum** *n.* *pl.* arms, weapons  
+**studium, studiī** *n.* zeal, enthusiasm; pursuit, study  
+**vēlum, velī** *n.* sail 
 
-➤ **ambulō, ambulāre, ambulāvī, ambulātum** (1-intr.) walk
-➤ **amō, amāre, amāvī, amātus** (1-tr.) love
-➤ **cōgitō** (1-tr.) think; ponder
-➤ **dō, dare, dedī, datus** give, grant
- ➤ **poenās dare** (idiom) to pay the penalty
- ➤ **vēla dare** (idiom) to set sail
-➤ **dōnō** (1-tr.) give; present, reward
-**errō** (1-intr.) wander; err, make a mistake
-**labōrō** (1-intr.) work; suffer, be distressed
-➤ **mōnstrō** (1-tr.) show, point out
-➤ **optō** (1-tr.) desire
+➤ **ambulō, ambulāre, ambulāvī, ambulātum** (1-intr.) walk  
+➤ **amō, amāre, amāvī, amātus** (1-tr.) love  
+➤ **cōgitō** (1-tr.) think; ponder  
+➤ **dō, dare, dedī, datus** give, grant  
+ ➤ **poenās dare** (idiom) to pay the penalty  
+ ➤ **vēla dare** (idiom) to set sail  
+➤ **dōnō** (1-tr.) give; present, reward  
+**errō** (1-intr.) wander; err, make a mistake  
+**labōrō** (1-intr.) work; suffer, be distressed  
+➤ **mōnstrō** (1-tr.) show, point out  
+➤ **optō** (1-tr.) desire  
 ➤ **vocō** (1-tr.) call; summon; name
 
-➤ **dēbeō, dēbēre, dēbuī, dēbitus** owe; ought
-**habeō, habēre, habuī, habitus** have, hold; consider
-➤ **iubeō, iubēre, iussī, iussus** order
-➤ **moveō, movēre, mōvi, mōtus** set in motion, stir (up), move
-➤ **respondeō, respondēre, respondī, respōnsus** answer, respond
-➤ **timeō, timēre, timuī, —** fear, be afraid (of)
+➤ **dēbeō, dēbēre, dēbuī, dēbitus** owe; ought  
+**habeō, habēre, habuī, habitus** have, hold; consider  
+➤ **iubeō, iubēre, iussī, iussus** order  
+➤ **moveō, movēre, mōvi, mōtus** set in motion, stir (up), move  
+➤ **respondeō, respondēre, respondī, respōnsus** answer, respond  
+➤ **timeō, timēre, timuī, —** fear, be afraid (of)  
 **videō, vidēre, vīdī, visus** see
 
-➤ **sum, esse, fuī, futūrus** be; exist
-➤ **possum, posse, potuī, —** be able, can
+➤ **sum, esse, fuī, futūrus** be; exist  
+➤ **possum, posse, potuī, —** be able, can  
 
-**cūr** (interrog. adv.) why
-➤ **enim** (postpositive conj.) in fact, indeed; for
-**etenim** (conj.) and indeed; for in fact
-➤ **nam** (conj.) for
-**namque** (conj.) for in fact
-➤ **-ne** (interrog. enclitic particle) *added to the first word of a question*
-➤ **neque** or **nec** (conj.-adv.) and not
- **neque/nec... neque/nec...** neither...nor...
-➤ **nōn** (adv.) not
+**cūr** (interrog. adv.) why  
+➤ **enim** (postpositive conj.) in fact, indeed; for  
+**etenim** (conj.) and indeed; for in fact  
+➤ **nam** (conj.) for  
+**namque** (conj.) for in fact  
+➤ **-ne** (interrog. enclitic particle) *added to the first word of a question*  
+➤ **neque** or **nec** (conj.-adv.) and not  
+ **neque/nec... neque/nec...** neither...nor...  
+➤ **nōn** (adv.) not  
 **sed** (conj.) but
 
 ## Vocabulary Notes
@@ -618,9 +618,9 @@ ning (first word) and the end (last word).[^18] If no special emphasis is given 
 
 When neutral order is *not* followed, the words in the first and last positions often receive special emphasis. For example:
 
-- **Fēmina fīliīs dōna dat.** The woman to (her) sons gifts (d.o.) is giving.
+- **Fēmina fīliīs dōna dat.** The woman to (her) sons gifts (d.o.) is giving.  
   (neutral word order) The woman is giving gifts to (her) sons.
-- **Dōna fēmina fīliīs dat.** *Gifts* (d.o.) the woman to (her) sons is giving.
+- **Dōna fēmina fīliīs dat.** *Gifts* (d.o.) the woman to (her) sons is giving.  
   (**dōna** emphasized) The woman is giving *gifts* to (her) sons.
 
 The second sentence violates neutral word order by placing the direct object first, ahead of the subject. Thus **dōna** receives additional emphasis.[^19] However, in the sentence **Dōna fīliīs dat.** (She gives gifts to [her] sons), *no additional emphasis* is placed on **dōna** because no subject expressed in the nominative case has been moved from its normal position at the beginning of the sentence.
@@ -629,16 +629,16 @@ BALANCE—Latin sentences often exhibit symmetrical arrangements and thereby ach
 
 Latin writers often achieve *balance between contrasting phrases* by arranging grammatical elements in *parallel* sequence:
 
-- **Rēgīna et *pecūniam*(A) *agricolīs*(B) et *librōs*(A) *poētīs*(B) dat.**
-  The queen both *money* (d.o.) *to the farmers* and *books* (d.o.) *to the poets* gives.
+- **Rēgīna et *pecūniam*(A) *agricolīs*(B) et *librōs*(A) *poētīs*(B) dat.**  
+  The queen both *money* (d.o.) *to the farmers* and *books* (d.o.) *to the poets* gives.  
   The queen gives both *money to the farmers* and *books to the poets*.
 
 In this sentence the accusatives (**pecūniam** and **librōs**) and the datives (**agricolīs** and **poētīs**) are placed in a parallel ABAB arrangement.
 
 Equally common is the arrangement of grammatical elements in inverted sequence:
 
-- **Rēgīna et *pecūniam*(A) *agricolīs*(B) et *poētīs*(B) *librōs*(A) dat.**
-  The queen both *money* (d.o.) *to the farmers* and *to the poets books* (d.o.) gives.
+- **Rēgīna et *pecūniam*(A) *agricolīs*(B) et *poētīs*(B) *librōs*(A) dat.**  
+  The queen both *money* (d.o.) *to the farmers* and *to the poets books* (d.o.) gives.  
   The queen gives *both money to the farmers* and *to the poets books*.
 
 In this sentence a grammatical sequence (accusative, dative) is reversed the second time it appears (dative, accusative). In this way, the contrasting parts of the sentence (**pecūniam** **agricolīs** and **poētīs** **librōs**) are balanced against each other. This ABBA, or inverted, arrangement is the rhetorical device **chiasmus** (< Greek letter *chi* [χ], in which the lines are crossed).
@@ -651,8 +651,8 @@ Because Latin has inflectional endings for its nouns and because Latin lacks a d
 
 In general, Latin writers use all the syntactic features of the language to express ideas in the shortest and clearest way. A common feature of Latin writing is called **ellipsis**, the omission of one or more words that can easily be supplied from context. For example:
 
-- **Agricolīs pecūniam rēgīna dat, poētīs librōs.**
-  To the farmers money (d.o.) the queen gives, to the poets books (d.o.).
+- **Agricolīs pecūniam rēgīna dat, poētīs librōs.**  
+  To the farmers money (d.o.) the queen gives, to the poets books (d.o.).  
   To the farmers the queen gives money; to the poets [the queen gives] books.
 
 In this sentence a grammatical sequence is set forth in the first clause (dative, accusative, nominative, verb). This pattern is then repeated in the second clause (dative, accusative), but the syntactic elements *common* to the two clauses (subject, verb) are omitted: *only the changed elements are expressed*. That is, the reader is expected to supply **rēgīna dat** to complete the second clause.
@@ -661,8 +661,8 @@ Latin sentences that contain ellipses of this kind may seem to exhibit a quality
 
 Often grammatically shared elements are *distributed between* two balanced clauses. For example:
 
-- **Puerī nautās in viā, in agrō agricolās vident.**
-  The boys sailors (d.o.) in the street, in the field farmers (d.o.) see.
+- **Puerī nautās in viā, in agrō agricolās vident.**  
+  The boys sailors (d.o.) in the street, in the field farmers (d.o.) see.  
   The boys [see] sailors in the street; [the boys] see farmers in the field.
 
 The subject and verb, placed first and last, are common to both clauses. Ellipses of this kind create clauses and sentences that exhibit both balance (in length) and economy (in words).
@@ -704,7 +704,7 @@ DRILL 12—15, PAGE 61, MAY NOW BE DONE.
 
 1. The master Lysidamus asks his wife’s slave a timorous question about the unwilling object of his affection.
 
-   *Lys.* sed etiamne habet nunc Casīna gladium?
+   *Lys.* sed etiamne habet nunc Casīna gladium?  
    *Par.* habet, duōs. (PLAUTUS, CASĪNA 690-91)
 
 - **Lys.** = Lysidamus 
