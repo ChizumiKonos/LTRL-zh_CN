@@ -9,14 +9,14 @@
 | Take stem from 2nd prin. part (by dropping **-re**) | Take stem from 2nd prin. part (by dropping **-re**) | Take stem from 2nd prin. part (by dropping **-re**) |
 |                                                     | Add **-bā-**                                        | Add **-bi-**                                        |
 | Add active personal endings:                        | Add active personal endings:                        | Add active personal endings:                        |
-| *Singular*                                          | *Singular*                                          | *Singular*                                          |
-| **-ō**[^1]                                          | **-m**                                              | **-ō**[^2]                                          |
-| **-s**                                              | **-s**                                              | **-s**                                              |
-| **-t**                                              | **-t**                                              | **-t**                                              |
+| *Sing.*                                             | *Sing.*                                             | *Sing.*                                             |
+| 1 **-ō**[^1]                                        | 1 **-m**                                            | 1 **-ō**[^2]                                        |
+| 2 **-s**                                            | 2 **-s**                                            | 2 **-s**                                            |
+| 3 **-t**                                            | 3 **-t**                                            | 3 **-t**                                            |
 | *Plural*                                            | *Plural*                                            | *Plural*                                            |
-| **-mus**                                            | **-mus**                                            | **-mus**                                            |
-| **-tis**                                            | **-tis**                                            | **-tis**                                            |
-| **-nt**                                             | **-nt**                                             | **-nt**[^3]                                         |
+| 1 **-mus**                                          | 1 **-mus**                                          | 1 **-mus**                                          |
+| 2 **-tis**                                          | 2 **-tis**                                          | 2 **-tis**                                          |
+| 3 **-nt**                                           | 3 **-nt**                                           | 3 **-nt**[^3]                                       |
 
 LONG VOWELS RULE: LONG VOWELS SHORTEN BEFORE **-m, -t, -nt**.
 
