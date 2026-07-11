@@ -2,50 +2,50 @@
 
 ## Vocabulary
 
-**dīligentia, dīligentiae** *f.*  diligence 
-➤ **incola, incolae** *m.* inhabitant 
-**mora, morae** *f.* delay 
-➤ **prōvincia, prōvinciae** *f.* province 
+**dīligentia, dīligentiae** *f.*  diligence   
+➤ **incola, incolae** *m.* inhabitant   
+**mora, morae** *f.* delay   
+➤ **prōvincia, prōvinciae** *f.* province   
 **terra, terrae** *f.* land, earth 
  
-➤ **amīcus, amīcī** *m.* friend 
-➤ **forum, forī** *n.* public square, marketplace, forum 
-➤ **imperium, imperiī** *n.* power, authority, command; empire 
-➤ **inimīcus, inimīcī** *m.* (personal) enemy 
-**odium, odiī** *n.* hatred 
-➤ **populus, populī** *m.* (the) people; populace 
+➤ **amīcus, amīcī** *m.* friend   
+➤ **forum, forī** *n.* public square, marketplace, forum   
+➤ **imperium, imperiī** *n.* power, authority, command; empire   
+➤ **inimīcus, inimīcī** *m.* (personal) enemy   
+**odium, odiī** *n.* hatred   
+➤ **populus, populī** *m.* (the) people; populace   
 ➤ **Rōmānī, Rōmānōrum** *m. pl.*  (the) Romans 
 
 ➤ **nihil** or **nīl** (indeclinable noun) *n.*  nothing 
 
-**laudō** (1-tr.)  praise 
-➤ **pugnō** (1-intr.)  fight 
+**laudō** (1-tr.)  praise   
+➤ **pugnō** (1-intr.)  fight   
 **superō** (1-tr.)  overcome, conquer; surpass 
 
-➤ **teneō, tenēre, tenuī, tentus**  hold, grasp; keep, possess; occupy 
-**videō, vidēre, vīdī, vīsus** *passive,* be seen; seem 
+➤ **teneō, tenēre, tenuī, tentus**  hold, grasp; keep, possess; occupy   
+**videō, vidēre, vīdī, vīsus** *passive,* be seen; seem   
 **eō, īre, iī/īvī, itum**  go 
 
-➤ **amīcus, -a, -um** friendly (+ dat.) 
-　➤ **inimīcus, -a, -um** unfriendly, hostile (+ dat.) 
-**bonus, -a, -um** good 
-➤ **laetus, -a, -um** happy 
-➤ **līber, lībera, līberum** free 
-**magnus, -a, -um** large, big; great 
-**malus, -a, -um** bad, evil 
-**miser, misera, miserum** wretched, pitiable, miserable 
-**multus, -a, -um** much, many 
-**parvus, -a, -um** small, little 
-➤ **pulcher, pulchra, pulchrum** beautiful, handsome 
+➤ **amīcus, -a, -um** friendly (+ dat.)   
+　➤ **inimīcus, -a, -um** unfriendly, hostile (+ dat.)   
+**bonus, -a, -um** good   
+➤ **laetus, -a, -um** happy   
+➤ **līber, lībera, līberum** free   
+**magnus, -a, -um** large, big; great   
+**malus, -a, -um** bad, evil   
+**miser, misera, miserum** wretched, pitiable, miserable   
+**multus, -a, -um** much, many   
+**parvus, -a, -um** small, little   
+➤ **pulcher, pulchra, pulchrum** beautiful, handsome   
 **Rōmānus, -a, -um** Roman 
 
-**ā, ab**  (prep. + abl.) by 
-➤ **atque or ac**  (conj.) and (also) 
-➤ **mox**  (adv.) soon; then 
-**nunc**  (adv.) now 
-➤ **prō**  (prep. + abl.) in front of; on behalf of, for; in return for, instead of 
-**propter**  (prep. + acc.) on account of, because of 
-**semper**  (adv.) always 
+**ā, ab**  (prep. + abl.) by   
+➤ **atque or ac**  (conj.) and (also)   
+➤ **mox**  (adv.) soon; then   
+**nunc**  (adv.) now   
+➤ **prō**  (prep. + abl.) in front of; on behalf of, for; in return for, instead of   
+**propter**  (prep. + acc.) on account of, because of   
+**semper**  (adv.) always   
 **sine**  (prep. + abl.) without 
 
 ## Vocabulary Notes
