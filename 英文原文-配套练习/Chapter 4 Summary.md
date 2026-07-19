@@ -8,6 +8,7 @@
 | 1   | **-ō, -m**              | **-mus** | **-or, -r**              | **-mur**  |
 | 2   | **-s**                  | **-tis** | **-ris / -re**           | **-minī** |
 | 3   | **-t**                  | **-nt**  | **-tur**                 | **-ntur** |
+
 **Long Vowel Rule**: LONG VOWELS SHORTEN BEFORE **-m, -t, -nt, -r, -ntur**.
 
 |            | Present Indicative                      | Stem change                       |                                                      |
@@ -61,6 +62,7 @@
 | Acc.              | **nōs**                                           | **vōs**                                            | **eōs**                       | **eās**       | **ea**        |
 | Abl.              | **nōbīs**                                         | **vōbīs**                                          | **eīs / iīs**                 | **eīs / iīs** | **eīs / iīs** |
 | (Possessive adj.) | **noster, nostra, nostrum**                       | **vester, vestra, vestrum**                        |                               |               |               |
+
 (For possession of third person personal pronoun, use genitive forms)
 
 [^1]: **meī** and **tuī** may be Partitive or Objective Genitive only; **nostrum** and **vestrum** may be Partitive Genitive only; **nostrī** and **vestrī** may be Objective Genitive only.
