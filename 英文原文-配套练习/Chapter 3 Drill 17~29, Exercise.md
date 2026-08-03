@@ -145,13 +145,13 @@ Principal Parts: \_\_\_\_
 |           | Translation | Change of Number |
 | --------- | ----------- | ---------------- |
 | 1. eunt   |             |                  |
-| 2. ibunt  |             |                  |
-| 3. is     |             |                  |
-| 4. ibant  |             |                  |
-| 5. ibās   |             |                  |
-| 6. imus   |             |                  |
-| 7. ibimus |             |                  |
-| 8. ibam   |             |                  |
+| 2. ībunt  |             |                  |
+| 3. īs     |             |                  |
+| 4. ībant  |             |                  |
+| 5. ībās   |             |                  |
+| 6. īmus   |             |                  |
+| 7. ībimus |             |                  |
+| 8. ībam   |             |                  |
 
 B. Write in Latin.
 
