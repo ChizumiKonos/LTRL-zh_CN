@@ -21,7 +21,7 @@
 **ager, agrī** *m.* field                                
 ➤ **deus, deī** *m.* god                                  
 ➤ **dominus, dominī** *m.* master, lord                         
-**fīlius, filiī** *m.* son                                  
+**fīlius, fīliī** *m.* son                                  
 **gladius, gladiī** *m.* sword                                
 **liber, librī** *m.* book                                 
 **puer, puerī** *m.* boy                                  
@@ -42,9 +42,9 @@
 **cum** (prep. + abl.) with                           
 ➤ **dē** (prep. + abl.) (down) from; about, concerning 
 ➤ **ē, ex** (prep. + abl.) (out) from                     
-➤ **et** and;                                          
+➤ **et** (conj.) and;                                          
 **et ... et ...** both ... and ... (adv.) even, also         
-➤ **in** (prep. + acc.) into, onto; against            
+➤ **in** (prep. + acc.) into, onto; against (prep. + abl.) in, on    
 **ō** (interj.) O                                   
 ➤ **-que** (enclitic conj.) and                          
  
