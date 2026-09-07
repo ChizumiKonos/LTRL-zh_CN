@@ -328,7 +328,7 @@ DRILL 7—8, PAGE 41, MAY NOW BE DONE.
 
 [^10]: There are thus two meanings for the word "conjugation": 1. the name for each of the four families of verbs (first conjugation, second conjugation, etc.); 2. a complete set of forms for a particular tense of a given verb.
 
-## §9. Present, Imperfect, and Future Active Indicative ofFirst and Second Conjugations
+## §9. Present, Imperfect, and Future Active Indicative of First and Second Conjugations
 
 ### Present Active Indicative of First and Second Conjugations
 
