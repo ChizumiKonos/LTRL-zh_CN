@@ -694,6 +694,6 @@ Drill 38–39, PAGE 153, MAY NOW BE DONE.
    **tantum** (adv.) only
 
 18. A Roman inscription  
-   Cape mē; tua sum.  (CIL I.1499)
+   Cape mē; tua sum.  (*CIL* I.1499)
 
 [^6]: When **es** or **est** follows a word ending in **-m** or **-e**, it may drop the initial **e-** and join the preceding word. This is called **aphaeresis** (< Greek *aphaeresis*, taking away).
