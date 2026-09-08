@@ -5,6 +5,9 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ChizumiKonos/LTRL-zh_CN)](https://github.com/ChizumiKonos/LTRL-zh_CN/commits/main)
 [![GitHub stars](https://img.shields.io/github/stars/ChizumiKonos/LTRL-zh_CN)](https://github.com/ChizumiKonos/LTRL-zh_CN/stargazers)
 
+> [!NOTE]
+> 因原书后续章节内容量显著增加，且本人可支配时间有限，本项目将放缓更新频率。虽然会持续翻译，但无法保证固定周期更新，还望理解。
+
 ## 📖 关于本项目
 
 本项目是 Learn to Read Latin (Andrew Keller & Stephanie Russell, Yale UNIVERSITY PRESS, 2nd Edition) 的中文非官方翻译。
@@ -58,7 +61,8 @@
 | 第2章    | ✅ 完成 | 2026-07-06  |
 | 第3章    | ✅ 完成 | 2026-07-11 |
 | 第4章    | ✅ 完成 | 2026-07-30 |
-| 第5章    | 📅 待翻译 |   |
+| 第5章    | ✅ 完成 | 2026-09-08 |
+| 第6章    | 📅 待定 |   |
 
 > 图例：✅ 完成  🚧 翻译中  📅 待翻译  ❓ 需修订
 
