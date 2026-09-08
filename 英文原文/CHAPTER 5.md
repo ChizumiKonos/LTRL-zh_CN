@@ -2,55 +2,55 @@
 
 ## Vocabulary
 
-➤ **amīcitia, amīcitiae** *f.* friendship 
-　➤ **inimīcitia, inimīcitiae** *f.* enmity, hostility 
+➤ **amīcitia, amīcitiae** *f.* friendship  
+　➤ **inimīcitia, inimīcitiae** *f.* enmity, hostility  
 
-➤ **fātum, fātī** *n.* destiny, fate 
+➤ **fātum, fātī** *n.* destiny, fate  
 **proelium, proeliī** *n.* battle 
 
-➤ **—, meī** (reflexive pron.) myself (§44) 
-➤ **—, nostrum/nostrī** (reflexive pron.) ourselves (§44) 
-➤ **—, tuī** (reflexive pron.) yourself (§44) 
-➤ **—, vestrum/vestrī** (reflexive pron.) yourselves (§44)
+➤ **—, meī** (reflexive pron.) myself (§44)  
+➤ **—, nostrum/nostrī** (reflexive pron.) ourselves (§44)  
+➤ **—, tuī** (reflexive pron.) yourself (§44)  
+➤ **—, vestrum/vestrī** (reflexive pron.) yourselves (§44)  
 ➤ **—, suī** (reflexive pron.) himself, herself, itself; themselves (§44) 
 
-➤ **accipiō, accipere, accēpī, acceptus** receive; accept; hear (of), learn (of) 
-➤ **cēdō, cēdere, cessī, cessum** go, move; yield; withdraw 
-　➤ **accēdō, accēdere, accessī, accessum** go to, come to, approach 
-　➤ **discēdō, discēdere, discessī, discessum** go away, depart 
-➤ **interficiō, interficere, interfēcī, interfectus** kill 
+➤ **accipiō, accipere, accēpī, acceptus** receive; accept; hear (of), learn (of)  
+➤ **cēdō, cēdere, cessī, cessum** go, move; yield; withdraw  
+　➤ **accēdō, accēdere, accessī, accessum** go to, come to, approach  
+　➤ **discēdō, discēdere, discessī, discessum** go away, depart  
+➤ **interficiō, interficere, interfēcī, interfectus** kill  
 ➤ **perficiō, perficere, perfēcī, perfectus** complete, accomplish 
 
-➤ **abeō, abīre, abiī, abitum** go away 
-➤ **ferō, ferre, tulī, lātus** bring, bear, carry; endure (§43) 
-　➤ **sē ferre** (idiom) to proceed (quickly) 
-➤ **meminī, meminisse** (defective verb) remember 
-➤ **ōdī, ōdisse** (defective verb) hate 
+➤ **abeō, abīre, abiī, abitum** go away  
+➤ **ferō, ferre, tulī, lātus** bring, bear, carry; endure (§43)  
+　➤ **sē ferre** (idiom) to proceed (quickly)  
+➤ **meminī, meminisse** (defective verb) remember  
+➤ **ōdī, ōdisse** (defective verb) hate  
 ➤ **redeō, redīre, rediī, reditum** go back, return 
 
-**dūrus, -a, -um** hard; harsh
-**ipse, ipsa, ipsum** (intensive adj.) -self, -selves; very (§46)
-**meus, -a, -um** my (own) (§45)
-**noster, nostra, nostrum** our (own) (§45) 
-➤ **pius, -a, -um** dutiful, loyal 
-　➤ **impius, -a, -um** disloyal, wicked 
-**suus, -a, -um** his (own), her (own), its (own); their (own) (§45) 
-**tuus, -a, -um** your (own) (§45) 
-**vester, vestra, vestrum** your (pl.) (own) (§45) 
+**dūrus, -a, -um** hard; harsh  
+**ipse, ipsa, ipsum** (intensive adj.) -self, -selves; very (§46)  
+**meus, -a, -um** my (own) (§45)  
+**noster, nostra, nostrum** our (own) (§45)  
+➤ **pius, -a, -um** dutiful, loyal  
+　➤ **impius, -a, -um** disloyal, wicked  
+**suus, -a, -um** his (own), her (own), its (own); their (own) (§45)  
+**tuus, -a, -um** your (own) (§45)  
+**vester, vestra, vestrum** your (pl.) (own) (§45)
 
-**bene** (adv.) well
-**etsī** (conj.) although 
-➤ **male** (adv.) badly
-**multum** (adv.) much, a lot
-**nisi** (conj.) if . . . not, unless
-**postquam** (conj.) after
-**quamquam** (conj.) although
-**quoniam** (conj.) since, because
-**sī** (conj.) if 
-➤ **sīc** (adv.) so, thus, in this way, in such a way 
-➤ **tamen** (adv.) nevertheless 
-➤ **ubi** (conj.) when; (interrog. adv.) where, when 
-➤ **ut** (conj.) as; when 
+**bene** (adv.) well  
+**etsī** (conj.) although  
+➤ **male** (adv.) badly  
+**multum** (adv.) much, a lot  
+**nisi** (conj.) if . . . not, unless  
+**postquam** (conj.) after  
+**quamquam** (conj.) although  
+**quoniam** (conj.) since, because  
+**sī** (conj.) if  
+➤ **sīc** (adv.) so, thus, in this way, in such a way  
+➤ **tamen** (adv.) nevertheless  
+➤ **ubi** (conj.) when; (interrog. adv.) where, when  
+➤ **ut** (conj.) as; when  
 **valdē** (adv.) strongly 
 
 ## Vocabulary Notes
@@ -75,7 +75,7 @@ When a prefix is combined with a simple verb, two kinds of phonetic change [^1] 
 
 The vowels of Latin (as of English) are regularly represented by the **vowel triangle**: 
 
-![](../../pics/vowel%20triangle.svg)
+![](../pics/vowel%20triangle.svg)
 
 The vowel **a** is described as **open** because the tongue is placed at the bottom of the mouth, and the mouth is as open as possible when it is pronounced. The vowels **i** and **u** at the bottom of the triangle are described as **closed** because the tongue is raised when the vowels are pronounced and the mouth is more closed. **e** and **o** are in between. When vowel weakening occurs, open vowels become more closed. When initial vowels become **medial** (i.e., not first), the following instances of vowel weakening are most frequent: 
 
@@ -139,8 +139,8 @@ The concepts and rules of assimilation and vowel weakening highlight and explain
 
 ➤ The adverb **sīc** indicates that the action of the verb it modifies is being done in a manner that has just been indicated in a preceding clause or sentence or is about to be indicated in a following clause or sentence. 
 
-- **Sīc pugnābant.** 
-    They were fighting in such a way (as I have just described). 
+- **Sīc pugnābant.**  
+    They were fighting in such a way (as I have just described).  
     They were fighting in such a way (as I shall now describe). 
 
 ➤ The adverb **tamen** regularly occurs in a main clause following a concessive clause. **tamen** may also occur without an expressed concession in the preceding clause or sentence to indicate that the statement that includes **tamen** is true in spite of what has just been said. 
@@ -557,9 +557,9 @@ When the subordinate clause precedes the main clause, it is set off by a comma. 
 
 In Latin, when an expressed subject is common to both the subordinate clause and the main clause, the order is often as follows: 
 
-- **Rēgīna, quoniam bellum gerēbat, arma optābat.**
-    The queen, since war (d.o.) she was waging, arms (d.o.) was desiring. 
-    The queen, since she was waging war, was desiring arms. 
+- **Rēgīna, quoniam bellum gerēbat, arma optābat.**  
+    The queen, since war (d.o.) she was waging, arms (d.o.) was desiring.  
+    The queen, since she was waging war, was desiring arms.  
     Since the queen was waging war, she was desiring arms. 
 
 **OBSERVATIONS**
@@ -606,8 +606,8 @@ Simple conditional sentences are of two types: present or past. In a **Present S
 
 One kind of future conditional sentence is called the Future More Vivid because it vividly imagines future events in the indicative mood. [^7] In a Future More Vivid conditional sentence, the verbs of both the protasis and the apodosis are in the future indicative. The third sentence above would be rendered in Latin as follows: 
 
-- **Sī oppidum *capiēmus*, poētae nostra facta *canent*.**
-    If we *shall capture* the town, the poets *will sing of* our deeds. 
+- **Sī oppidum *capiēmus*, poētae nostra facta *canent*.**  
+    If we *shall capture* the town, the poets *will sing of* our deeds.  
     If we *capture* the town, the poets *will sing of* our deeds. 
 
 [^7]: For Future Less Vivid conditional sentences, see §71. 
@@ -620,8 +620,8 @@ One kind of future conditional sentence is called the Future More Vivid because 
 
 The *future perfect indicative* may sometimes appear in the protasis of a future conditional sentence in combination with a *future indicative* in the apodosis. Such a conditional sentence is called a **Future More Vivid with Emphatic Protasis**. The future perfect may emphasize the speed or completeness with which the action in the protasis will be done. For example: 
 
-- **Sī oppidum *cēperimus*, poētae nostra facta *canent*.**
-    If we *shall have captured* the town, the poets *will sing of* our deeds. 
+- **Sī oppidum *cēperimus*, poētae nostra facta *canent*.**  
+    If we *shall have captured* the town, the poets *will sing of* our deeds.  
     If we *capture* the town, the poets *will sing of* our deeds. 
 
 **OBSERVATIONS**
@@ -632,8 +632,8 @@ The *future perfect indicative* may sometimes appear in the protasis of a future
 
 In all future conditional sentences, it is possible to replace the future indicative in the apodosis with an *imperative* since commands look to future time. For example: 
 
-- **Sī rēgīnam vidēre optābis, *venī* ad forum.**
-    If the queen (d.o.) to see you desire, *come* to the forum. 
+- **Sī rēgīnam vidēre optābis, *venī* ad forum.**  
+    If the queen (d.o.) to see you desire, *come* to the forum.  
     If you desire to see the queen, *come* to the forum. 
 
 **OBSERVATION**
@@ -656,155 +656,155 @@ Summary of Conditional Sentences
 Drill 49, PAGE 207, MAY NOW BE DONE. 
 ## Short Readings
 
-1. A quick exchange between two slaves 
-    Euclio: Tacē atque abī intrō. 
-    Staphyla: Taceō atque abeō. (PLAUTUS, *AULULĀRIA* 103) 
-    **taceō, tacēre, tacuī, tacitūrus** be silent, keep silent 
+1. A quick exchange between two slaves  
+    Euclio: Tacē atque abī intrō.  
+    Staphyla: Taceō atque abeō. (PLAUTUS, *AULULĀRIA* 103)  
+    **taceō, tacēre, tacuī, tacitūrus** be silent, keep silent  
     **intrō** (adv.) within, inside 
 
-2. The old Nicobulus gives his slave an important command. 
-Cape hoc tibi aurum, Chrȳsale, ī, fer fīliō. (PLAUTUS, *BACCHIDES* 1059)
-**hoc** = *neut. sing. acc. of demonstrative adj.*, this
+2. The old Nicobulus gives his slave an important command.  
+Cape hoc tibi aurum, Chrȳsale, ī, fer fīliō. (PLAUTUS, *BACCHIDES* 1059)  
+**hoc** = *neut. sing. acc. of demonstrative adj.*, this  
 **Chrȳsalus, Chrȳsalī** *m.* Chrȳsalus
 
-3. An example of Ennian alliteration in a scornful remark perhaps uttered by Romulus against Titus Tatius, a Sabine king 
-Ō Tite, tūte, Tatī, tibi tanta, tyranne, tulistī. (ENNIUS, *ANNĀLĒS* I.104)
-**Titus Tatius, Titī Tatī** *m.* Titus Tatius 
-**tūte** = *emphatic form of* tū 
-**tantus, -a, -um** so great, so much 
+3. An example of Ennian alliteration in a scornful remark perhaps uttered by Romulus against Titus Tatius, a Sabine king  
+Ō Tite, tūte, Tatī, tibi tanta, tyranne, tulistī. (ENNIUS, *ANNĀLĒS* I.104)  
+**Titus Tatius, Titī Tatī** *m.* Titus Tatius  
+**tūte** = *emphatic form of* tū  
+**tantus, -a, -um** so great, so much  
 **tyrannus, tyrannī** *m.* monarch; tyrant
 
-4. Cato gives a summary of the essence of agriculture. 
-quid est agrum bene colere? bene arāre. quid est secundum? arāre. quid tertium? stercorāre. (CATO, *DĒ AGRĪ CULTŪRĀ* 61) 
-**quid** = *neut. sing. nom. of interrog. pron.*, what 
-**colō, colere, coluī, cultus** cultivate, tend 
-**arō** (1-tr.) plough, till 
-**secundus, -a, -um** second 
-**tertius, -a, -um** third 
+4. Cato gives a summary of the essence of agriculture.  
+quid est agrum bene colere? bene arāre. quid est secundum? arāre. quid tertium? stercorāre. (CATO, *DĒ AGRĪ CULTŪRĀ* 61)  
+**quid** = *neut. sing. nom. of interrog. pron.*, what  
+**colō, colere, coluī, cultus** cultivate, tend  
+**arō** (1-tr.) plough, till  
+**secundus, -a, -um** second  
+**tertius, -a, -um** third  
 **stercorō** (1-tr.) spread with manure 
 
-5. A keen comparison 
-sīc multī librōs dēgustant ut convīvae dēliciās. ([VARRO], *SENTENTIAE* 86)
-**dēgustō** (1-tr.) take a taste of 
-**cōnvīva, convīvae** *m.* dinner guest 
+5. A keen comparison  
+sīc multī librōs dēgustant ut convīvae dēliciās. ([VARRO], *SENTENTIAE* 86)  
+**dēgustō** (1-tr.) take a taste of  
+**cōnvīva, convīvae** *m.* dinner guest  
 **dēliciae, dēliciārum** *f. pl.* delicacies 
 
-6. The orator identifies what is of value to the Romans. 
-ōdit populus Rōmānus prīvātam luxuriam, pūblicam magnificentiam dīligit. (CICERO, *PRŌ MURĒNĀ* 76)
-**prīvātus, -a, -um** private
-**luxuria, luxuriae** *f.* extravagance, excess, luxury 
-**pūblicus, -a, -um** public 
-**magnificentia, magnificentiae** *f.* magnificence, sumptuousness 
+6. The orator identifies what is of value to the Romans.  
+ōdit populus Rōmānus prīvātam luxuriam, pūblicam magnificentiam dīligit. (CICERO, *PRŌ MURĒNĀ* 76)  
+**prīvātus, -a, -um** private  
+**luxuria, luxuriae** *f.* extravagance, excess, luxury  
+**pūblicus, -a, -um** public  
+**magnificentia, magnificentiae** *f.* magnificence, sumptuousness  
 **dīligō, dīligere, dīlēxī, dīlēctus** value, esteem, love 
 
-7. One of the interlocutors in a philosophical dialogue offers a persuasive analogy. 
-... ut ager ... sine cultūrā frūctuōsus esse nōn potest, sīc sine doctrīnā animus ... (CICERO, *TUSCULĀNAE DISPUTĀTIŌNĒS* II.5)
-**cultūra, cultūrae** *f.* cultivation 
-**frūctuōsus, -a, -um** fruitful 
+7. One of the interlocutors in a philosophical dialogue offers a persuasive analogy.  
+... ut ager ... sine cultūrā frūctuōsus esse nōn potest, sīc sine doctrīnā animus ... (CICERO, *TUSCULĀNAE DISPUTĀTIŌNĒS* II.5)  
+**cultūra, cultūrae** *f.* cultivation  
+**frūctuōsus, -a, -um** fruitful  
 **doctrīna, doctrīnae** *f.* training, instruction 
 
-8. A Roman proverb 
-Avārus miseriae causa est suae. (PUBLILIUS SYRUS, *SENTENTIAE* A14) 
-**avārus, -a, -um** greedy 
+8. A Roman proverb  
+Avārus miseriae causa est suae. (PUBLILIUS SYRUS, *SENTENTIAE* A14)  
+**avārus, -a, -um** greedy  
 **miseria, miseriae** *f.* misery 
 
-9. A distressed Queen Dido calls to her men as Aeneas and the Trojans sail away. 
-...īte, 
-ferte citī flammās, date tēla, impellite rēmōs! (VERGIL, *AENEID* IV.593–94) 
-**citus, -a, -um** swift, quick 
-**flamma, flammae** *f.* flame, fire 
-**tēlum, tēlī** *n.* weapon; spear 
-**impellō, impellere, impulī, impulsus** set in motion, drive forward 
+9. A distressed Queen Dido calls to her men as Aeneas and the Trojans sail away.  
+...īte,  
+ferte citī flammās, date tēla, impellite rēmōs! (VERGIL, *AENEID* IV.593–94)  
+**citus, -a, -um** swift, quick  
+**flamma, flammae** *f.* flame, fire  
+**tēlum, tēlī** *n.* weapon; spear  
+**impellō, impellere, impulī, impulsus** set in motion, drive forward  
 **rēmus, rēmī** *m.* oar 
 
-10. The poet concludes a poem to a wealthy but always worried friend, who insists on trying to make the poet worry as well. 
-ut tū fortūnam, sīc nōs tē, Celse, ferēmus. (Horace, *EPISTULAE* I.8.17) 
-**fortūna, fortūnae** *f.* fortune 
+10. The poet concludes a poem to a wealthy but always worried friend, who insists on trying to make the poet worry as well.  
+ut tū fortūnam, sīc nōs tē, Celse, ferēmus. (Horace, *EPISTULAE* I.8.17)  
+**fortūna, fortūnae** *f.* fortune  
 **Celsus, Celsī** *m.* Celsus 
 
-11. The poet describes an emotional difficulty. 
-ōderō sī poterō; sī nōn, invītus amābō. (OVID, *AMŌRĒS* III.11.35) 
+11. The poet describes an emotional difficulty.  
+ōderō sī poterō; sī nōn, invītus amābō. (OVID, *AMŌRĒS* III.11.35)  
 **invītus, -a, -um** unwilling 
 
-12. Advice to a would-be lover 
-rīserit, arrīdē; sī flēbit, flēre mementō. (OVID, *ARS AMĀTŌRIA* II.201) 
-**rīdeō, rīdēre, rīsī, rīsus** laugh; **rīserit**, *subject* is “she” 
-**arrīdeō, arrīdēre, arrīsī, arrīsus** laugh with 
+12. Advice to a would-be lover  
+rīserit, arrīdē; sī flēbit, flēre mementō. (OVID, *ARS AMĀTŌRIA* II.201)  
+**rīdeō, rīdēre, rīsī, rīsus** laugh; **rīserit**, *subject* is “she”  
+**arrīdeō, arrīdēre, arrīsī, arrīsus** laugh with  
 **fleō, flēre, flēvi, flētus** weep 
 
-13. Apollo's command to the poet 
-dūc, age, discipulōs ad mea templa tuōs ... (OVID, *ARS AMĀTŌRIA* II.493) 
-**discipulus, discipulī** *m.* pupil, follower 
+13. Apollo's command to the poet  
+dūc, age, discipulōs ad mea templa tuōs ... (OVID, *ARS AMĀTŌRIA* II.493)  
+**discipulus, discipulī** *m.* pupil, follower  
 **templum, templī** *n.* temple 
 
-14. A portion of Queen Clytaemnestra's soliloquy 
-tēcum ipsa nunc ēvolve fēmineōs dolōs . . . (SENECA THE YOUNGER, *AGAMEMNŌN* 116) 
-**ēvolvō, ēvolvere, ēvolvī, ēvolūtus** unroll; turn over (in one's mind)
-**fēmineus, -a, -um** of or belonging to a woman, feminine 
+14. A portion of Queen Clytaemnestra's soliloquy  
+tēcum ipsa nunc ēvolve fēmineōs dolōs . . . (SENECA THE YOUNGER, *AGAMEMNŌN* 116)  
+**ēvolvō, ēvolvere, ēvolvī, ēvolūtus** unroll; turn over (in one's mind)  
+**fēmineus, -a, -um** of or belonging to a woman, feminine  
 **dolus, dolī** *m.* deceit, trick, cunning 
 
-15. When Clytaemnestra hesitates to carry through their deadly plan, her lover and partner-in-crime, Aegisthus, urges her to action. 
-nec rēgna socium ferre nec taedae sciunt. (SENECA THE YOUNGER, *AGAMEMNŌN* 259) 
-**rēgnum, rēgnī** *n.* kingdom, realm; *pl.* kingship, power 
-**taeda, taedae** *f.* (marriage) torch 
+15. When Clytaemnestra hesitates to carry through their deadly plan, her lover and partner-in-crime, Aegisthus, urges her to action.  
+nec rēgna socium ferre nec taedae sciunt. (SENECA THE YOUNGER, *AGAMEMNŌN* 259)  
+**rēgnum, rēgnī** *n.* kingdom, realm; *pl.* kingship, power  
+**taeda, taedae** *f.* (marriage) torch  
 **sciō, scīre, sciī/scīvī, scītus** know (how) (+ infin.) 
 
-16. Aegisthus speaks bravely about the possible consequences of his planned actions. 
-exilia mihi sunt haud nova; assuēvī malīs. (SENECA THE YOUNGER, *AGAMEMNŌN* 302)
-**exilium, exiliī** *n.* exile 
-**haud** (adv.) not at all, by no means 
-**novus, -a, -um** new 
+16. Aegisthus speaks bravely about the possible consequences of his planned actions.  
+exilia mihi sunt haud nova; assuēvī malīs. (SENECA THE YOUNGER, *AGAMEMNŌN* 302)  
+**exilium, exiliī** *n.* exile  
+**haud** (adv.) not at all, by no means  
+**novus, -a, -um** new  
 **assuēscō, assuēscere, assuēvī, assuētum** become accustomed; *perfect*, be accustomed (+ dat.) 
 
-17. Cassandra addresses the god Apollo, her nemesis. 
-recēde, Phoebe, iam nōn sum tua. (SENECA THE YOUNGER, AGAMEMNŌN 722) 
-**recēdō** (**re-** + **cēdō**) go back, withdraw 
-**Phoebus, Phoebī** *m.* Phoebus (Apollo) 
+17. Cassandra addresses the god Apollo, her nemesis.  
+recēde, Phoebe, iam nōn sum tua. (SENECA THE YOUNGER, AGAMEMNŌN 722)  
+**recēdō** (**re-** + **cēdō**) go back, withdraw  
+**Phoebus, Phoebī** *m.* Phoebus (Apollo)  
 **iam** (adv.) now; by now 
 
-18. The beginning and end of the Chorus's closing reflection on human nature 
-fātīs agimur; cēdite fātīs. 
-    multī ad fātum
-vēnēre suum dum fāta timent. (SENECA THE YOUNGER, *OEDIPUS* 980; 993–94) 
+18. The beginning and end of the Chorus's closing reflection on human nature  
+fātīs agimur; cēdite fātīs.  
+    multī ad fātum  
+vēnēre suum dum fāta timent. (SENECA THE YOUNGER, *OEDIPUS* 980; 993–94)  
 **dum** (conj.) while 
 
-19. The philosopher begins his discussion of the happy life with a comment about himself. 
-cum multīs inimīcitiās gessī et in grātiam ex odiō, sī modo ūlla inter malōs grātia est, rediī; mihi ipsī nōndum amīcus sum. (SENECA THE YOUNGER, *DIALOGĪ* VII.2.3)
-**grātia, grātae** *f.* favor; friendly feeling 
-**modo** (adv.) at all 
-**ūllus, -a, -um** any 
-**inter** (prep. + acc.) between; among 
+19. The philosopher begins his discussion of the happy life with a comment about himself.  
+cum multīs inimīcitiās gessī et in grātiam ex odiō, sī modo ūlla inter malōs grātia est, rediī; mihi ipsī nōndum amīcus sum. (SENECA THE YOUNGER, *DIALOGĪ* VII.2.3)  
+**grātia, grātae** *f.* favor; friendly feeling  
+**modo** (adv.) at all  
+**ūllus, -a, -um** any  
+**inter** (prep. + acc.) between; among  
 **nōndum** (adv.) not yet 
 
-20. An irritated dinner guest finds fault with another diner. 
-in aliō pēduclum vidēs, in tē ricinum nōn vidēs. (PETRONIUS, *SATYRICON* 57.7) 
-**alius, alia, aliud** other, another 
-**pēduc(u)lum, pēduc(u)lī** *m.* louse 
+20. An irritated dinner guest finds fault with another diner.  
+in aliō pēduclum vidēs, in tē ricinum nōn vidēs. (PETRONIUS, *SATYRICON* 57.7)  
+**alius, alia, aliud** other, another  
+**pēduc(u)lum, pēduc(u)lī** *m.* louse  
 **ricinus, ricinī** *m.* tick 
 
-21. In a passage examining Cicero's reasoning in his legal speeches, Quintilian ponders the rationale behind the following defense of murder. 
-sī occīdī, rēctē fēcī; sed nōn occīdī. (QUINTILIAN, *ĪNSTITŪTIŌ ŌRĀTŌRIA* IV.5.13) 
-**occīdō, occīdere, occīdī, occīsus** kill
+21. In a passage examining Cicero's reasoning in his legal speeches, Quintilian ponders the rationale behind the following defense of murder.  
+sī occīdī, rēctē fēcī; sed nōn occīdī. (QUINTILIAN, *ĪNSTITŪTIŌ ŌRĀTŌRIA* IV.5.13)  
+**occīdō, occīdere, occīdī, occīsus** kill  
 **rēctē** (adv.) rightly, justly 
 
-22. Each reader's capacity determines how he evaluates the books he reads. 
-... habent sua fāta libellī. (TERENTIANUS MAURUS, DE SYLLABĪS 1286) 
+22. Each reader's capacity determines how he evaluates the books he reads.  
+... habent sua fāta libellī. (TERENTIANUS MAURUS, DE SYLLABĪS 1286)  
 **libellus, libellī** *m.* (little) book 
 
 Four gravestone inscriptions 
 
-23. NFFNSNC (Nōn fuī. Fuī. Nōn sum. Nōn cūrō.) (*CIL* V.2893)
+23. NFFNSNC (Nōn fuī. Fuī. Nōn sum. Nōn cūrō.) (*CIL* V.2893)  
 **cūrō** (1-intr.) worry, care 
 
-24. ... nōn fueram, nōn sum, nesciō, nōn ad mē pertinet. (*CIL* V.3415) 
-**nesciō, nescīre, nesciī/nescīvī, nescītus** not know
+24. ... nōn fueram, nōn sum, nesciō, nōn ad mē pertinet. (*CIL* V.3415)  
+**nesciō, nescīre, nesciī/nescīvī, nescītus** not know  
 **pertineō, pertinēre, pertinuī, pertentus** pertain, matter 
 
-25. Plōtia C.l. Thalassia virīs suīs et amīcīs amāra fuit numquam. (*CIL* VI.7595) 
-**Plōtia, Plōtiae** *f.* Plotia 
-**C.l.** = **Gaī līberta; līberta, lībertae** *f.* freedwoman
-**Thalassius, -a, -um** Thalassian 
-**amārus, -a, -um** bitter 
+25. Plōtia C.l. Thalassia virīs suīs et amīcīs amāra fuit numquam. (*CIL* VI.7595)  
+**Plōtia, Plōtiae** *f.* Plotia  
+**C.l.** = **Gaī līberta; līberta, lībertae** *f.* freedwoman  
+**Thalassius, -a, -um** Thalassian  
+**amārus, -a, -um** bitter  
 **numquam** (adv.) never 
 
 26. Fātīs cessit suīs. (*CIL* X.7658) 

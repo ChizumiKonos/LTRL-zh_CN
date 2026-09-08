@@ -623,8 +623,8 @@ Drill 38–39, PAGE 153, MAY NOW BE DONE.
    **succēdō, succēdere, successī, successum** approach, draw near
 
 6. Varro explains the different shades of meaning of certain Latin verbs.  
-   potest$^{\dagger}$ enim aliquid facere et nōn agere, ut poēta facit fābulam et nōn agit; contrā āctor agit et nōn facit, ... contrā imperātor ... neque facit neque agit sed gerit...   (VARRO, *DĒ LINGUĀ LATĪNĀ* VI.77)  
-   $^{\dagger}$ **potest**, *subject is “one”*  
+   potest<sup>&dagger;</sup> enim aliquid facere et nōn agere, ut poēta facit fābulam et nōn agit; contrā āctor agit et nōn facit, ... contrā imperātor ... neque facit neque agit sed gerit...   (VARRO, *DĒ LINGUĀ LATĪNĀ* VI.77)  
+   <sup>&dagger;</sup> **potest**, *subject is “one”*  
    **aliquid** = neut. sing. acc. of indef. pron., something  
    **ut** (conj.) as  
    **fābula, fābulae** *f.* story, tale; play, drama  
@@ -685,9 +685,9 @@ Drill 38–39, PAGE 153, MAY NOW BE DONE.
    **dīvitiae, dīvitiārum** *f. pl.* riches, wealth
 
 17. The poet has a brief message for Sabidius.  
-   Nōn amo$^{\dagger}$ tē, Sabidī, nec possum dīcere quārē;  
+   Nōn amo<sup>&dagger;</sup> tē, Sabidī, nec possum dīcere quārē;  
    hoc tantum possum dīcere: nōn amo\* tē.  (MARTIAL I.32)  
-   $^{\dagger}$ The **-ō** of **amō** here scans *short*.  
+   <sup>&dagger;</sup> The **-ō** of **amō** here scans *short*.  
    **Sabidius, Sabidiī** *m.* Sabidius (an acquaintance of the poet)  
    **quārē** (interrog. adv.) why  
    **hoc** = neut. sing. acc. of demonstr. pron., this thing  
