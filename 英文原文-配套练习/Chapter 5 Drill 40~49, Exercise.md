@@ -19,7 +19,7 @@ B.
 1. Identify the tense of these active finite verb forms. 
 2. Translate. 
 
-| Tense            | Translation |             |
+|                  |  Tense      | Translation |
 | ---------------- | ----------- | ----------- |
 | 1. cēperās       |             |             |
 | 2. vēnēre        |             |             |
@@ -44,14 +44,14 @@ B.
 
 C. Name the tense and write in Latin. 
 
-| Tense                  | Translation |
-| ---------------------- | ----------- |
-| 1. I shall have worked |             |
-| 2. we had been         |             |
-| 3. she has seen        |             |
-| 4. you (pl.) erred     |             |
-| 5. they had led        |             |
-| 6. he will have made   |             |
+| Tense                     | Translation |
+| ------------------------- | ----------- |
+| 1. I shall have worked    |             |
+| 2. we had been            |             |
+| 3. she has seen           |             |
+| 4. you (pl.) erred        |             |
+| 5. they had led           |             |
+| 6. he will have made      |             |
 | 7. you rewarded           |             |
 | 8. I had called           |             |
 | 9. we have gone (3)       |             |
