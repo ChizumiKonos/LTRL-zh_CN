@@ -29,7 +29,7 @@
 ➤ **dēbeō, dēbēre, dēbuī, dēbitus** owe; ought  
 **habeō, habēre, habuī, habitus** have, hold; consider  
 ➤ **iubeō, iubēre, iussī, iussus** order  
-➤ **moveō, movēre, mōvi, mōtus** set in motion, stir (up), move  
+➤ **moveō, movēre, mōvī, mōtus** set in motion, stir (up), move  
 ➤ **respondeō, respondēre, respondī, respōnsus** answer, respond  
 ➤ **timeō, timēre, timuī, —** fear, be afraid (of)  
 **videō, vidēre, vīdī, visus** see
@@ -108,7 +108,7 @@ To translate the past and future tenses of **dēbeō** with a Complementary Infi
 
 - **Rēgina nautam labōrāre iubet.** The queen orders the sailor to work.
 
-➤ **moveō, movēre, mōvi, mōtus** means "set (something or someone) in motion," either physically or emotionally.
+➤ **moveō, movēre, mōvī, mōtus** means "set (something or someone) in motion," either physically or emotionally.
 
 ➤ **respondeō, respondēre, respondī, respōnsus** takes a Dative of Indirect Object to express the person whom one answers (to whom one responds).
 
@@ -273,13 +273,13 @@ DRILL 5—6, PAGE 37, MAY NOW BE DONE.
 
 The full vocabulary entry for a verb contains four **principal parts** and English meanings for the verb. The four principal parts are the given elements from which all the forms of a Latin verb are created. For example:
 
-- **moveō, movēre, mōvi, mōtus** move
+- **moveō, movēre, mōvī, mōtus** move
 
 |     | Principal Part |                                              |                          |
 | --- | -------------- | -------------------------------------------- | ------------------------ |
 | 1   | moveō[^6]      | first person sing. present active indicative | “I move"                 |
 | 2   | movēre         | present active infinitive[^7]                | "to move"                |
-| 3   | mōvi           | first person sing. perfect active indicative | “I moved”/“I have moved" |
+| 3   | mōvī           | first person sing. perfect active indicative | “I moved”/“I have moved" |
 | 4   | mōtus          | perfect passive participle[^8]               | "(having been) moved"    |
 
 LEARN WHAT EACH PRINCIPAL PART IS AND HOW IT IS TO BE TRANSLATED. ALWAYS MEMORIZE ALL FOUR PRINCIPAL PARTS OF EACH VERB.
