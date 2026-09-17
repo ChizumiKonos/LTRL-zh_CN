@@ -24,13 +24,13 @@
 
 |            | Imperfect Indicative                    | Stem change                         |              |                                                      |
 | ---------- | --------------------------------------- | ----------------------------------- | ------------ | ---------------------------------------------------- |
-| 3rd        | Take present stem (by dropping **-re**) | **-e- → -iē-** (**rege- → regiē-**) | Add **-bā-** | Add appropriate (active or passive) personal endings |
+| 3rd        | Take present stem (by dropping **-re**) | **-e- → -ē-** (**rege- → regē-**) | Add **-bā-** | Add appropriate (active or passive) personal endings |
 | 3rd i-stem | Take present stem (by dropping **-re**) | **-e- → -iē-** (**cape- → capiē-**) | Add **-bā-** | Add appropriate (active or passive) personal endings |
 | 4th        | Take present stem (by dropping **-re**) | **-ī- → -iē-** (**audiē-**)         | Add **-bā-** | Add appropriate (active or passive) personal endings |
 
 |            | Future Indicative                       | Stem change                         |                                                      |
 | ---------- | --------------------------------------- | ----------------------------------- | ---------------------------------------------------- |
-| 3rd        | Take present stem (by dropping **-re**) | **-e- → -iē-** (**rege- → regiē-**) | Add appropriate (active or passive) personal endings |
+| 3rd        | Take present stem (by dropping **-re**) | **-e- → -ē-** (**rege- → regē-**) | Add appropriate (active or passive) personal endings |
 | 3rd i-stem | Take present stem (by dropping **-re**) | **-e- → -iē-** (**cape- → capiē-**) | Add appropriate (active or passive) personal endings |
 | 4th        | Take present stem (by dropping **-re**) | **-ī- → -iē-** (**audiē-**)         | Add appropriate (active or passive) personal endings |
 **Exceptions**
@@ -73,6 +73,6 @@
 | Concept                                                                                                                                                   | Example                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Partitive Genitive**<br>REPRESENTS A *WHOLE* OUT OF WHICH ANOTHER NOUN IS A PART                                                                        | **Multī *agricolārum* nōn labōrābant.**<br>Many *of the farmers* were not working.                |
-| **Subjective Genitive**<br>EXPRESS THE PERSON OR THING *PERFORMING THE VERBAL ACTION IMPLIED IN ANOTHER NOUN*                                             | **Magnum erat odium *Sullae* in Rōmānōs.**<br>Great was the hatred *of Sulla* against the Romans. |
-| **Objective Genitive**<br>1. EXPRESS THE PERSON OR THING *RECEIVING THE VERBAL ACTION IMPLIED IN ANOTHER NOUN*<br>2. MAY BE TRANSLATED WITH ENGLISH "FOR" | **Rēgīna odium *populī* habet.**<br>The queen has hatred *of (for) the people*.                   |
+| **Subjective Genitive**<br>EXPRESSES THE PERSON OR THING *PERFORMING THE VERBAL ACTION IMPLIED IN ANOTHER NOUN*                                             | **Magnum erat odium *Sullae* in Rōmānōs.**<br>Great was the hatred *of Sulla* against the Romans. |
+| **Objective Genitive**<br>1. EXPRESSES THE PERSON OR THING *RECEIVING THE VERBAL ACTION IMPLIED IN ANOTHER NOUN*<br>2. MAY BE TRANSLATED WITH ENGLISH "FOR" | **Rēgīna odium *populī* habet.**<br>The queen has hatred *of (for) the people*.                   |
 | **Ablative of Respect**<br>1. *LIMITS* OR *SPECIFIES* THE MEANING OF AN ADJECTIVE OR VERB OR SENTENCE<br>2. *NO* PREPOSITION USED                         | **Magnus *cōnsiliō* erat poēta.**<br>The poet was great *in (respect to) judgement*.              |
