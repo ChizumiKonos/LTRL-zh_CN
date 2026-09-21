@@ -145,6 +145,7 @@ But: **voc*ō*, voc*or***; **move*ō*, move*or***; **reg*ō*, reg*or*, reg*unt*,
 | 3rd         | Same as above                                                   | **-e- → -ē-**  | (None)       | Same as above                                        |
 | 3rd-i-stem  | Same as above                                                   | **-e- → -iē-** | (None)       | Same as above                                        |
 | 4th         | Same as above                                                   | **-ī- → -iē-** | (None)       | Same as above                                        |
+
 But: **voca*bō*, voca*bor*, voca*bunt*, voca*buntur***; **movē*bō*, movē*bor*, movē*bunt*, movē*buntur***; **reg*am*, reg*ar***; **cap*iam*, cap*iar***; **aud*iam*, aud*iar***;
 
 |                                                                                                                                                                                     |                                                                                                                                                                                                                                 |
@@ -152,4 +153,5 @@ But: **voca*bō*, voca*bor*, voca*bunt*, voca*buntur***; **movē*bō*, movē*bor
 | **Perfect Active**<br>Take perfect active stem from 3rd principal part (by dropping **-ī**)<br>Add **-ī, -istī, -it, -imus, -istis, -ērunt/-ēre** (1/2/3 sing., 1/2/3 pl.)          | **Perfect Passive**<br>Take ALL of 4th principal part<br>Add *as a separate word* the *present active indicative* of **sum** (remember to adjust gender and number: e.g., **rēctus, -a, -um est; rēctī, -ae, -a sunt**)         |
 | **Pluperfect Active**<br>Take perfect active stem from 3rd principal part(by dropping **-ī**)<br>Add **-erā-**<br>Add active personal endings (use **-m** for 1st person sing.)     | **Pluperfect Passive**<br>Take ALL of 4th principal part<br>Add *as a separate word* the *imperfect active indicative* of **sum** (remember to adjust gender and number: e.g., **rēctus, -a, -um erat; rēctī, -ae, -a erant**)  |
 | **Future Perfect Active**<br>Take perfect active stem from 3rd principal part(by dropping **-ī**)<br>Add **-eri-**<br>Add active personal endings (use **-ō** for 1st person sing.) | **Future Perfect Passive**<br>Take ALL of 4th principal part<br>Add *as a separate word* the *future active indicative* of **sum** (remember to adjust gender and number: e.g., **rēctus, -a, -um erit; rēctī, -ae, -a erunt**) |
+
 But: **rēx*erō*** 
