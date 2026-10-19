@@ -394,7 +394,7 @@ Thus, for example, the future passive indicative conjugation of **vocō**, with 
 
 1. In the first person singular, the **-i-** of the infix **-bi-** contracts with the ending **-or** to give the resulting form (\*vocābior > **vocābor**).
   
-2. In the second person singular passive, the **-i-** of **-bi-** changes to **-e-** before the endings **-ris** and **-re**. The following mnemonic device may be useful:
+2. In the second person singular passive, the **-i-** of **-bi-** changes to **-e-** before the endings **-ris** and **-re**. The following mnemonic device may be useful:  
    **BEFORE *-RIS* AND *-RE*, *-I-* TURNS TO *-E-*.**
   
 3. In the third person plural, the **-i-** of the infix **-bi-** changes to **-u-**. The **-u-** is a remnant of an earlier form of the third person plural and is thus an exception to the rules for forming the future passive indicative. MEMORIZE THIS EXCEPTION.
