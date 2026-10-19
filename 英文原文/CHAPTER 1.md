@@ -43,8 +43,10 @@
 ➤ **dē** (prep. + abl.) (down) from; about, concerning  
 ➤ **ē, ex** (prep. + abl.) (out) from  
 ➤ **et** (conj.) and;  
-**et ... et ...** both ... and ... (adv.) even, also  
-➤ **in** (prep. + acc.) into, onto; against (prep. + abl.) in, on  
+ **et ... et ...** both ... and ...  
+ (adv.) even, also  
+➤ **in** (prep. + acc.) into, onto; against  
+  (prep. + abl.) in, on  
 **ō** (interj.) O  
 ➤ **-que** (enclitic conj.) and  
   
