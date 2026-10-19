@@ -688,7 +688,7 @@ Some Roman proverbs
 17. The poet has a brief message for Sabidius.  
     Nōn amo<sup>&dagger;</sup> tē, Sabidī, nec possum dīcere quārē;  
     hoc tantum possum dīcere: nōn amo\* tē. (MARTIAL I.32)  
-    <sup>&dagger;</sup> The **-ō** of **amō** here scans *short*.
+    <sup>&dagger;</sup> The **-ō** of **amō** here scans *short*.  
     **Sabidius, Sabidiī** *m.* Sabidius (an acquaintance of the poet)  
     **quārē** (interrog. adv.) why  
     **hoc** = neut. sing. acc. of demonstr. pron., this thing  
