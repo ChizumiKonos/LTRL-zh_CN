@@ -1,60 +1,60 @@
-# CHAPTER 4
+# CHAPTER IV
 
 ## Vocabulary
 
-➤ **causa, causae** _f._ reason, cause; case  
-**glōria, glōriae** _f._ renown, glory  
-**invidia, invidiae** _f._ envy, jealousy; ill-will, resentment  
-➤ **sententia, sententiae** _f._ thought, feeling; opinion
+➤ **causa, causae** *f.* reason, cause; case  
+**glōria, glōriae** *f.* renown, glory  
+**invidia, invidiae** *f.* envy, jealousy; ill-will, resentment  
+➤ **sententia, sententiae** *f.* thought, feeling; opinion
 
-➤ **altum, altī** _n._ deep sea; height  
-➤ **auxilium, auxiliī** _n._ aid, help  
- ➤**auxilia, auxiliōrum** _n. pl._ auxiliary troops  
-**caelum, caelī** _n._ sky, heaven  
-➤ **socius, sociī** _m._ ally, comrade
+➤ **altum, altī** *n.* deep sea; height  
+➤ **auxilium, auxiliī** *n.* aid, help  
+ ➤**auxilia, auxiliōrum** *n. pl.* auxiliary troops  
+**caelum, caelī** *n.* sky, heaven  
+➤ **socius, sociī** *m.* ally, comrade
 
-**ego, meī** (personal pron.) I; me (§38)  
-**nōs, nostrum/nostrī** (personal pron.) we; us (§38)  
-**tū, tuī** (personal pron.) you (§38)  
-**vōs, vestrum/vestrī** (personal pron.) you (pl.) (§38)  
-**is, ea, id** (personal pron.) he, she, it; they; him, her, it; them (§38)
+**ego, meī** (personal pron.) I; me (§38)  
+**nōs, nostrum/nostrī** (personal pron.) we; us (§38)  
+**tū, tuī** (personal pron.) you (§38)  
+**vōs, vestrum/vestrī** (personal pron.) you (pl.) (§38)  
+**is, ea, id** (personal pron.) he, she, it; they; him, her, it; them (§38)
 
-➤ **agō, agere, ēgī, āctus** drive; do; spend, conduct  
-  **causam agere** (idiom) to plead a case  
-➤ **canō, canere, cecinī, cantus** sing (of)  
-➤ **capiō, capere, cēpī, captus** take (up), capture; win  
- **cōnsilium capere** (idiom) to form a plan  
-➤ **dīcō, dīcere, dīxī, dictus** say, speak, tell  
-➤ **dūcō, dūcere, dūxī, ductus** lead; consider  
-➤ **faciō, facere, fēcī, factus** make; do  
-➤ **gerō, gerere, gessī, gestus** bear; manage, conduct; perform  
- **bellum gerere** (idiom) to wage war  
-➤ **mittō, mittere, mīsī, missus** send  
-➤ **pōnō, pōnere, posuī, positus** put, place; set aside  
-**regō, regere, rēxī, rēctus** rule, control  
-**scrībō, scrībere, scrīpsī, scrīptus** write  
+➤ **agō, agere, ēgī, āctus** drive; do; spend, conduct  
+  **causam agere** (idiom) to plead a case  
+➤ **canō, canere, cecinī, cantus** sing (of)  
+➤ **capiō, capere, cēpī, captus** take (up), capture; win  
+ **cōnsilium capere** (idiom) to form a plan  
+➤ **dīcō, dīcere, dīxī, dictus** say, speak, tell  
+➤ **dūcō, dūcere, dūxī, ductus** lead; consider  
+➤ **faciō, facere, fēcī, factus** make; do  
+➤ **gerō, gerere, gessī, gestus** bear; manage, conduct; perform  
+ **bellum gerere** (idiom) to wage war  
+➤ **mittō, mittere, mīsī, missus** send  
+➤ **pōnō, pōnere, posuī, positus** put, place; set aside  
+**regō, regere, rēxī, rēctus** rule, control  
+**scrībō, scrībere, scrīpsī, scrīptus** write  
 
-➤ **audiō, audīre, audīvī, audītus** hear, listen (to)  
-➤ **sentiō, sentīre, sēnsī, sēnsus** perceive; feel  
-➤ **veniō, venīre, vēnī, ventum** come
+➤ **audiō, audīre, audīvī, audītus** hear, listen (to)  
+➤ **sentiō, sentīre, sēnsī, sēnsus** perceive; feel  
+➤ **veniō, venīre, vēnī, ventum** come
 
-**is, ea, id** (demonstr. adj.) this, that; these, those (§38)
+**is, ea, id** (demonstr. adj.) this, that; these, those (§38)
 
-**altus, -a, -um** tall, high; deep  
-➤ **clārus, -a, -um** bright, clear; famous  
-➤ **cupidus, -a, -um** desirous (+ gen.)  
-**meus, -a, -um** my, mine (§39)  
-**noster, nostra, nostrum** our, ours (§39)  
-➤ **paucī, paucae, pauca** few  
-**socius, -a, -um** allied  
-**tuus, -a, -um** your, yours (§39)  
-**validus, -a, -um** strong; healthy  
-**vester, vestra, vestrum** your (pl.), yours (pl.) (§39)
+**altus, -a, -um** tall, high; deep  
+➤ **clārus, -a, -um** bright, clear; famous  
+➤ **cupidus, -a, -um** desirous (+ gen.)  
+**meus, -a, -um** my, mine (§39)  
+**noster, nostra, nostrum** our, ours (§39)  
+➤ **paucī, paucae, pauca** few  
+**socius, -a, -um** allied  
+**tuus, -a, -um** your, yours (§39)  
+**validus, -a, -um** strong; healthy  
+**vester, vestra, vestrum** your (pl.), yours (pl.) (§39)
 
-➤ **per** (prep. + acc.) through; by  
-➤ **quidem** (postpositive adv.) indeed, certainly; at least  
- ➤ **equidem** (adv.) indeed, certainly; for my part  
- ➤ **nē … quidem** not even
+➤ **per** (prep. + acc.) through; by  
+➤ **quidem** (postpositive adv.) indeed, certainly; at least  
+ ➤ **equidem** (adv.) indeed, certainly; for my part  
+ ➤ **nē … quidem** not even
 
 ## Vocabulary Notes
 
@@ -72,7 +72,7 @@
 
 ➤ **canō, canere, cecinī, cantus** is a transitive verb and thus takes a direct object. The third principal part, **cecinī**, is reduplicated (cf. **dedī**).  
 
-- **Poeta bellum canebat.**  The poet was singing of war.
+- **Poeta bellum canebat.** The poet was singing of war.
 
 The translation includes the preposition “of” because this is the common English expression. In Latin the direct object of this verb is always accusative.
 
@@ -84,7 +84,7 @@ The translation includes the preposition “of” because this is the common Eng
 
 ➤ In the third principal part of **faciō, facere, fēcī, factus**, the root vowel exhibits ablaut and changes to **-ē** (cf. **capiō**). **faciō** is a transitive verb that means “make,” “do.” “Make” includes ideas of creating, causing, or representing something. “Do” means perform or carry out an action, a deed, a crime, orders, etc. In the passive voice of the present system, **faciō** has irregular forms made from the verb **fīō** (§126). Until these forms are learned, synopses of **faciō** should include active forms only.
 
-➤ **gerō, gerere, gessī, gestus** has three distinct meanings:  1. “bear” or “carry” (equipment, clothing);  2. “have” or “bear” as a permanent or temporary feature of body or mind (wounds, reputation, anger); or  3. “manage,” “conduct,” or “perform” (oneself, business, political office).  The first of these three meanings is found only in poetry.
+➤ **gerō, gerere, gessī, gestus** has three distinct meanings: 1. “bear” or “carry” (equipment, clothing); 2. “have” or “bear” as a permanent or temporary feature of body or mind (wounds, reputation, anger); or 3. “manage,” “conduct,” or “perform” (oneself, business, political office). The first of these three meanings is found only in poetry.
 
 ➤ In the third principal part of **mittō, mittere, mīsī, missus**, the root vowel exhibits ablaut and changes to **-ī**. **mittō** is regularly found with two constructions indicating the recipient: **ad** + accusative or a Dative of Reference.  
 
@@ -136,30 +136,30 @@ Context usually makes clear which meaning is appropriate.
 
 - **Rēgīna ne fīliō quidem aurum dat.** The queen is giving gold not even to (her) son.
 
-| Latin Word | Derivatives                                    | Cognates                                             |
-| ---------- | ---------------------------------------------- | ---------------------------------------------------- |
-| agō        | act, **ag**ent                                 | **ag**ony; ped**ag**ogue; prot**ag**onist; **ax**iom |
-| auxilium   | **auxil**iary                                  | wax                                                  |
-| caelum     | **cel**estial                                  |                                                      |
-| canō       | **cant**ata; chant, in**cent**ive              | hen                                                  |
-| capiō      | **capt**ure; per**ceive**; muni**cip**al       | have; haven; **haw**k; gaff                          |
-| clārus     | **cal**endar; de**clare**                      | **l**ow; hale                                        |
-| decem      | **Decem**ber; **deci**mal; **di**me; do**zen** | seven**teen**; dean; **deca**de; ten                 |
-| dīcō       | **dict**ate; **dit**to; **dit**ty              | **tok**en; para**digm**; theo**dic**y                |
-| dūcō       | ab**duct**; **duk**e; pro**duc**e              | tug; tow; team                                       |
-| ego        | ego                                            | I                                                    |
-| meī        |                                                | me; **my**self                                       |
-| gerō       | **ger**und                                     |                                                      |
-| invidia    | **invid**ious; envy                            |                                                      |
-| is         | **id**; **id**entify; **i**terate              |                                                      |
-| mittō      | **miss**ive; inter**mitt**ent                  |                                                      |
-| nōs        | **nos**trum                                    | **us**; **ou**r                                      |
-| paucī      | **pauc**ity; poco                              | **po**ny                                             |
-| scrībō     | **scrib**ble; manu**script**                   |                                                      |
-| sentiō     | **sent**ence; **sent**iment; sense             | send                                                 |
-| socius     | **soci**al; **soci**ety; as**soci**ate         |                                                      |
-| validus    | in**valid**; **val**ence; a**vail**            | wield                                                |
-| veniō      | e**vent**; co**ven**ant; pre**vent**           | come                                                 |
+| | Derivatives | Cognates |
+| --- | --- | --- |
+| agō | act, **ag**ent | **ag**ony; ped**ag**ogue; prot**ag**onist; **ax**iom |
+| auxilium | **auxil**iary | wax |
+| caelum | **cel**estial | |
+| canō | **cant**ata; chant, in**cent**ive | hen |
+| capiō | **capt**ure; per**ceive**; muni**cip**al | have; haven; **haw**k; gaff |
+| clārus | **cal**endar; de**clare** | **l**ow; hale |
+| decem | **Decem**ber; **deci**mal; **di**me; do**zen** | seven**teen**; dean; **deca**de; ten |
+| dīcō | **dict**ate; **dit**to; **dit**ty | **tok**en; para**digm**; theo**dic**y |
+| dūcō | ab**duct**; **duk**e; pro**duc**e | tug; tow; team |
+| ego | ego | I |
+| meī | | me; **my**self |
+| gerō | **ger**und | |
+| invidia | **invid**ious; envy | |
+| is | **id**; **id**entify; **i**terate | |
+| mittō | **miss**ive; inter**mitt**ent | |
+| nōs | **nos**trum | **us**; **ou**r |
+| paucī | **pauc**ity; poco | **po**ny |
+| scrībō | **scrib**ble; manu**script** | |
+| sentiō | **sent**ence; **sent**iment; sense | send |
+| socius | **soci**al; **soci**ety; as**soci**ate | |
+| validus | in**valid**; **val**ence; a**vail** | wield |
+| veniō | e**vent**; co**ven**ant; pre**vent** | come |
 
 ## §30. Present, Imperfect, and Future Active and Passive Indicative of Third, Third i-stem, and Fourth Conjugations
 
@@ -186,24 +186,24 @@ To form the present active and passive indicative of the third, third i-stem, an
 
 1. take the present stem
 2. change the stem vowels as follows:
-	- 3rd: **-e- → -i-​**
-	- 3rd i-stem: **-e- → -i-​**
-	- 4th: **-ī-** stays as is​
+   - 3rd: **-e- → -i-**
+   - 3rd i-stem: **-e- → -i-**
+   - 4th: **-ī-** stays as is
 3. add the *active* or *passive personal endings* (use **-ō** or **-or** for first person singular) directly to the *changed* present stem
 
 Thus the present active and passive indicative conjugations of, for example, **regō, capiō**, and **audiō** are:
 
-| Changed Present Stems: | regi-       |                     | capi-       |                     | audī- (no change) |                     |
-| ---------------------- | ----------- | ------------------- | ----------- | ------------------- | ----------------- | ------------------- |
-|                        | *Active*    | *Passive*           | *Active*    | *Passive*           | *Active*          | *Passive*           |
-| *Singular*             |             |                     |             |                     |                   |                     |
-| 1                      | **regō**    | **regor**           | **capiō**   | **capior**          | **audiō**         | **audior**          |
-| 2                      | **regis**   | **regeris/ regere** | **capis**   | **caperis/ capere** | **audīs**         | **audīris/ audīre** |
-| 3                      | **regit**   | **regitur**         | **capit**   | **capitur**         | **audit**         | **audītur**         |
-| *Plural*               |             |                     |             |                     |                   |                     |
-| 1                      | **regimus** | **regimur**         | **capimus** | **capimur**         | **audīmus**       | **audīmur**         |
-| 2                      | **regitis** | **regiminī**        | **capitis** | **capiminī**        | **audītis**       | **audīminī**        |
-| 3                      | **regunt**  | **reguntur**        | **capiunt** | **capiuntur**       | **audiunt**       | **audiuntur**       |
+| Changed Present Stems: | regi- | | capi- | | audī- (no change) | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | *Active* | *Passive* | *Active* | *Passive* | *Active* | *Passive* |
+| *Singular* | | | | | | |
+| 1 | **regō** | **regor** | **capiō** | **capior** | **audiō** | **audior** |
+| 2 | **regis** | **regeris/ regere** | **capis** | **caperis/ capere** | **audīs** | **audīris/ audīre** |
+| 3 | **regit** | **regitur** | **capit** | **capitur** | **audit** | **audītur** |
+| *Plural* | | | | | | |
+| 1 | **regimus** | **regimur** | **capimus** | **capimur** | **audīmus** | **audīmur** |
+| 2 | **regitis** | **regiminī** | **capitis** | **capiminī** | **audītis** | **audīminī** |
+| 3 | **regunt** | **reguntur** | **capiunt** | **capiuntur** | **audiunt** | **audiuntur** |
 
 **OBSERVATIONS**
 
@@ -211,7 +211,7 @@ Thus the present active and passive indicative conjugations of, for example, **r
 2. In the third person plural of all third-conjugation verbs, the **-i-** changes to **-u-**. The **-u-** is a remnant of an earlier form of the third person plural and is thus an exception to the rules for forming the present indicative. MEMORIZE THIS EXCEPTION.
 3. In the first person singular of all third-i-stem-conjugation verbs, the **-i-** at the end of the changed present stem does not contract with the endings **-ō** and **-or**. THE FIRST PERSON SINGULAR ACTIVE IS THE FIRST PRINCIPAL PART.
 4. In the third person plural of all third-i-stem-conjugation verbs, the **-i-** is followed by **-u-**. The **-u-** is a remnant of an earlier form of the third person plural and is thus an exception to the rules for forming the present indicative. MEMORIZE THIS EXCEPTION.
-5. In the second person singular passive indicative of third- and third-i-stem-conjugation verbs, the **-i-** changes to an **-e-** before the endings **-ris** and **-re**. [^1] MEMORIZE THIS EXCEPTION.
+5. In the second person singular passive indicative of third- and third-i-stem-conjugation verbs, the **-i-** changes to an **-e-** before the endings **-ris** and **-re**. [^1] MEMORIZE THIS EXCEPTION.
 6. In the present indicative, third-i-stem-conjugation verbs differ from third-conjugation verbs only in the first person singular and the third person plural.
 7. In the first person singular of fourth-conjugation verbs, the **-ī-** at the end of the present stem shortens before the endings **-ō** and **-or** (e.g., \*audīō > **audiō**; \*audīor > **audior**). THE FIRST PERSON SINGULAR ACTIVE IS THE FIRST PRINCIPAL PART.
 8. In the third person plural of all fourth-conjugation verbs, the **-ī-** is shortened to **-i-** and is followed by **-u-**. The **-u-** is a remnant of an earlier form of the third person plural and is thus an exception to the rules for forming the present active indicative. MEMORIZE THIS EXCEPTION.
@@ -226,26 +226,26 @@ To form the imperfect active and passive indicative of the third, third i-stem, 
 
 1. take the present stem
 2. change the stem vowels as follows:
-	- 3rd: **-e- → -ē-**
-	- 3rd i-stem: **-e- → -iē-**
-	- 4th: **-ī- → -iē-**
+   - 3rd: **-e- → -ē-**
+   - 3rd i-stem: **-e- → -iē-**
+   - 4th: **-ī- → -iē-**
 3. add the infix for the imperfect indicative: **-bā-**
 4. add the *active* or *passive personal endings* (use **-m** or **-r** for first person singular)
 
 Thus the imperfect active indicative conjugations of, for example, **regō, capiō**, and **audiō** are:
 
-| Changed Present Stems: | regē-         |                         | capiē-         |                           | audiē-         |                           |
-| ---------------------- | ------------- | ----------------------- | -------------- | ------------------------- | -------------- | ------------------------- |
-| Infix:                 | **-bā-**      |                         | **-bā-**       |                           | **-bā-**       |                           |
-|                        | *Active*      | *Passive*               | *Active*       | *Passive*                 | *Active*       | *Passive*                 |
-| *Singular*             |               |                         |                |                           |                |                           |
-| 1                      | **regēbam**   | **regēbar**             | **capiēbam**   | **capiēbar**              | **audiēbam**   | **audiēbar**              |
-| 2                      | **regēbās**   | **regēbāris/ regēbāre** | **capiēbās**   | **capiēbāris/ capiēbāre** | **audiēbās**   | **audiēbāris/ audiēbāre** |
-| 3                      | **regēbat**   | **regēbātur**           | **capiēbat**   | **capiēbātur**            | **audiēbat**   | **audiēbātur**            |
-| *Plural*               |               |                         |                |                           |                |                           |
-| 1                      | **regēbāmus** | **regēbāmur**           | **capiēbāmus** | **capiēbāmur**            | **audiēbāmus** | **audiēbāmur**            |
-| 2                      | **regēbātis** | **regēbāminī**          | **capiēbātis** | **capiēbāminī**           | **audiēbātis** | **audiēbāminī**           |
-| 3                      | **regēbant**  | **regēbantur**          | **capiēbant**  | **capiēbantur**           | **audiēbant**  | **audiēbantur**           |
+| Changed Present Stems: | regē- | | capiē- | | audiē- | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Infix: | **-bā-** | | **-bā-** | | **-bā-** | |
+| | *Active* | *Passive* | *Active* | *Passive* | *Active* | *Passive* |
+| *Singular* | | | | | | |
+| 1 | **regēbam** | **regēbar** | **capiēbam** | **capiēbar** | **audiēbam** | **audiēbar** |
+| 2 | **regēbās** | **regēbāris/ regēbāre** | **capiēbās** | **capiēbāris/ capiēbāre** | **audiēbās** | **audiēbāris/ audiēbāre** |
+| 3 | **regēbat** | **regēbātur** | **capiēbat** | **capiēbātur** | **audiēbat** | **audiēbātur** |
+| *Plural* | | | | | | |
+| 1 | **regēbāmus** | **regēbāmur** | **capiēbāmus** | **capiēbāmur** | **audiēbāmus** | **audiēbāmur** |
+| 2 | **regēbātis** | **regēbāminī** | **capiēbātis** | **capiēbāminī** | **audiēbātis** | **audiēbāminī** |
+| 3 | **regēbant** | **regēbantur** | **capiēbant** | **capiēbantur** | **audiēbant** | **audiēbantur** |
 
 **OBSERVATIONS**
 
@@ -259,24 +259,24 @@ To form the future active and passive indicative of the third, third i-stem, and
 
 1. take the present stem
 2. change the stem vowels as follows:
-	- 3rd: **-e- → -ē-**
-	- 3rd i-stem: **-e- → -iē-**
-	- 4th: **-ī- → -iē-**
+   - 3rd: **-e- → -ē-**
+   - 3rd i-stem: **-e- → -iē-**
+   - 4th: **-ī- → -iē-**
 3. add the *active* or *passive personal endings* (use **-m** or **-r** for first person singular)
 
 Thus the future active indicative conjugations of, for example, **regō, capiō**, and **audiō** are:
 
-| Changed Present Stems: | regē-       |                     | capiē-       |                       | audiē-       |                       |
-| ---------------------- | ----------- | ------------------- | ------------ | --------------------- | ------------ | --------------------- |
-|                        | *Active*    | *Passive*           | *Active*     | *Passive*             | *Active*     | *Passive*             |
-| *Singular*             |             |                     |              |                       |              |                       |
-| 1                      | **regam**   | **regar**           | **capiam**   | **capiar**            | **audiam**   | **audiar**            |
-| 2                      | **regēs**   | **regēris/ regēre** | **capiēs**   | **capiēris/ capiēre** | **audiēs**   | **audiēris/ audiēre** |
-| 3                      | **reget**   | **regētur**         | **capiet**   | **capiētur**          | **audiet**   | **audiētur**          |
-| *Plural*               |             |                     |              |                       |              |                       |
-| 1                      | **regēmus** | **regēmur**         | **capiēmus** | **capiēmur**          | **audiēmus** | **audiēmur**          |
-| 2                      | **regētis** | **regēminī**        | **capiētis** | **capiēminī**         | **audiētis** | **audiēminī**         |
-| 3                      | **regent**  | **regentur**        | **capient**  | **capientur**         | **audient**  | **audientur**         |
+| Changed Present Stems: | regē- | | capiē- | | audiē- | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | *Active* | *Passive* | *Active* | *Passive* | *Active* | *Passive* |
+| *Singular* | | | | | | |
+| 1 | **regam** | **regar** | **capiam** | **capiar** | **audiam** | **audiar** |
+| 2 | **regēs** | **regēris/ regēre** | **capiēs** | **capiēris/ capiēre** | **audiēs** | **audiēris/ audiēre** |
+| 3 | **reget** | **regētur** | **capiet** | **capiētur** | **audiet** | **audiētur** |
+| *Plural* | | | | | | |
+| 1 | **regēmus** | **regēmur** | **capiēmus** | **capiēmur** | **audiēmus** | **audiēmur** |
+| 2 | **regētis** | **regēminī** | **capiētis** | **capiēminī** | **audiētis** | **audiēminī** |
+| 3 | **regent** | **regentur** | **capient** | **capientur** | **audient** | **audientur** |
 
 **OBSERVATIONS**
 
@@ -289,20 +289,20 @@ DRILL 30, PAGE 127, MAY NOW BE DONE.
 
 ## §31. Present Passive Infinitive of All Verbs
 
-The infinitive has been defined as a verbal noun with the properties of tense (present, perfect, or future) and voice (active or passive) (§12). The second principal part of every verb is the present active infinitive and is regularly translated "to \_\_\_\_." To form the present passive infinitive for verbs of the first, second, and fourth conjugations, CHANGE THE FINAL **-E** OF THE PRESENT ACTIVE INFINITIVE TO **-Ī**. For example:
+The infinitive has been defined as a verbal noun with the properties of tense (present, perfect, or future) and voice (active or passive) (§12). The second principal part of every verb is the present active infinitive and is regularly translated “to \_\_\_\_.” To form the present passive infinitive for verbs of the first, second, and fourth conjugations, CHANGE THE FINAL **-E** OF THE PRESENT ACTIVE INFINITIVE TO **-Ī**. For example:
 
 | Present Active Infinitive | Present Passive Infinitive |
-| ------------------------- | -------------------------- |
-| **vocāre** (to call)      | **vocārī** (to be called)  |
-| **movēre** (to move)      | **movērī** (to be moved)   |
-| **audīre** (to hear)      | **audīrī** (to be heard)   |
+| --- | --- |
+| **vocāre** (to call) | **vocārī** (to be called) |
+| **movēre** (to move) | **movērī** (to be moved) |
+| **audīre** (to hear) | **audīrī** (to be heard) |
 
-To form the present passive infinitive of third- and third-i-stem-conjugation verbs, DROP THE FINAL **-ERE** OF THE PRESENT ACTIVE INFINITIVE AND ADD **-Ī**. [^2] For example:
+To form the present passive infinitive of third- and third-i-stem-conjugation verbs, DROP THE FINAL **-ERE** OF THE PRESENT ACTIVE INFINITIVE AND ADD **-Ī**. [^2] For example:
 
 | Present Active Infinitive | Present Passive Infinitive |
-| ------------------------- | -------------------------- |
-| **regere** (to rule)      | **regī** (to be ruled)     |
-| **capere** (to capture)   | **capī** (to be captured)  |
+| --- | --- |
+| **regere** (to rule) | **regī** (to be ruled) |
+| **capere** (to capture) | **capī** (to be captured) |
 
 ## §32. Present Active and Passive Imperative of All Verbs
 
@@ -319,13 +319,13 @@ To form the present active imperative of all four conjugations:
 1. (for the singular) take the present stem *and make no changes*
 2. (for the plural) take the present stem and add **-te**
 
-| Present Stem | Present Active Imperative Sing. |        | Present Active Imperative Pl. |               |
-| ------------ | ------------------------------- | ------ | ----------------------------- | ------------- |
-| **vocā-**    | **vocā**                        | summon | **vocāte**                    | summon (pl.)  |
-| **movē-**    | **movē**                        | move   | **movēte**                    | move (pl.)    |
-| **rege-**    | **rege**                        | rule   | **regite**                    | rule (pl.)    |
-| **cape-**    | **cape**                        | take   | **capite**                    | capture (pl.) |
-| **audī-**    | **audī**                        | listen | **audīte**                    | listen (pl.)  |
+| Present Stem | Present Active Imperative Sing. | | Present Active Imperative Pl. | |
+| --- | --- | --- | --- | --- |
+| **vocā-** | **vocā** | summon | **vocāte** | summon (pl.) |
+| **movē-** | **movē** | move | **movēte** | move (pl.) |
+| **rege-** | **rege** | rule | **regite** | rule (pl.) |
+| **cape-** | **cape** | take | **capite** | capture (pl.) |
+| **audī-** | **audī** | listen | **audīte** | listen (pl.) |
 
 [^2]: The present passive infinitive of **faciō** is supplied by another verb. See §126.
 
@@ -333,19 +333,19 @@ To form the present active imperative of all four conjugations:
 
 1. In the present active imperative plural of third- and third-i-stem-conjugation verbs, the stem vowel **-e-** changes to **-i-** before the ending **-te**. Compare this stem vowel change to the change that occurs in the present active and passive indicative of third- and third-i-stem-conjugation verbs (e.g., **rege-** > **regi-**).
 2. The present active imperative singular of **dō** is **dā**. Although the stem has a short **-a-**, the **-a-** is lengthened in the imperative singular form (**dā**) by analogy with other first-conjugation verbs.
-3. The imperatives of **eō** are regularly formed: **ī** (singular) and **īte** (plural). [^3]
+3. The imperatives of **eō** are regularly formed: **ī** (singular) and **īte** (plural). [^3]
 4. Present imperatives are so called because they are formed with the present stem, but imperatives look to the future and are future in time. Some verbs have alternate imperative forms that are called future imperatives. Such forms are identified in the vocabulary notes and in readings.
 
 [^3]: The irregular verb **possum** has no imperative forms. The imperative forms of **sum** are **es** (singular) and **este** (plural). Both forms are rare except in compounds of **sum**.
 
 Four third-conjugation verbs (**dīcō, dūcō, faciō, ferō**[^4]) have irregular present active imperative forms in the singular. MEMORIZE THESE IRREGULAR FORMS.
 
-| Present Active <br>Imperative Sing. |       | Present Active <br>Imperative Pl. |             |
-| ----------------------------------- | ----- | --------------------------------- | ----------- |
-| **dīc**                             | say   | **dīcite**                            | say (pl.)   |
-| **dūc**                             | lead  | **dūcite**                            | lead (pl.)  |
-| **fac**                             | make  | **facite**                            | make (pl.)  |
-| **fer**                             | carry | **ferte**                             | carry (pl.) |
+| Present Active <br>Imperative Sing. | | Present Active <br>Imperative Pl. | |
+| --- | --- | --- | --- |
+| **dīc** | say | **dīcite** | say (pl.) |
+| **dūc** | lead | **dūcite** | lead (pl.) |
+| **fac** | make | **facite** | make (pl.) |
+| **fer** | carry | **ferte** | carry (pl.) |
 
 **OBSERVATIONS**
 
@@ -359,33 +359,33 @@ To form the present passive imperative of all four conjugations:
 1. (for the singular) take the present stem and add **-re**
 2. (for the plural) take the present stem and add **-minī**
 
-| Present Stem | Pres. Passive Imperative Sing. |             | Pres. Passive Imperative Pl. |                   |
-| ------------ | ------------------------------ | ----------- | ---------------------------- | ----------------- |
-| **vocā-**    | **vocāre**                     | be summoned | **vocāminī**                 | be summoned (pl.) |
-| **movē-**    | **movēre**                     | be moved    | **movēminī**                 | be moved (pl.)    |
-| **rege-**    | **regere**                     | be ruled    | **regiminī**                 | be ruled (pl.)    |
-| **cape-**    | **capere**                     | be taken    | **capiminī**                 | be captured (pl.) |
-| **audī-**    | **audīre**                     | be heard    | **audīminī**                 | be heard (pl.)    |
+| Present Stem | Pres. Passive Imperative Sing. | | Pres. Passive Imperative Pl. | |
+| --- | --- | --- | --- | --- |
+| **vocā-** | **vocāre** | be summoned | **vocāminī** | be summoned (pl.) |
+| **movē-** | **movēre** | be moved | **movēminī** | be moved (pl.) |
+| **rege-** | **regere** | be ruled | **regiminī** | be ruled (pl.) |
+| **cape-** | **capere** | be taken | **capiminī** | be captured (pl.) |
+| **audī-** | **audīre** | be heard | **audīminī** | be heard (pl.) |
 
 **OBSERVATIONS**
 
 1. In the present passive imperative plural of third- and third-i-stem-conjugation verbs, the stem vowel **-e-** changes to **-i-** before the ending **-minī**.
 2. Both the singular and plural present passive imperative are identical in form with the second person singular and plural present passive indicative. In addition, the singular present passive imperative for all verbs is identical in form with the present active infinitive. For example:
-	- **vocāminī** 
-		- be summoned (pl.) (imperative)  
-		- you are being summoned (indicative)  
-	- **vocāre**
-		- be summoned (imperative)  
-		- you are being summoned (indicative)  
-		- to summon (infinitive)
+   - **vocāminī**  
+     - be summoned (pl.) (imperative)  
+     - you are being summoned (indicative)  
+   - **vocāre**
+     - be summoned (imperative)  
+     - you are being summoned (indicative)  
+     - to summon (infinitive)
 
-    Context usually makes clear which form occurs in a particular sentence.
+   Context usually makes clear which form occurs in a particular sentence.
 
 **Dīcō** and **dūcō** have regular present passive imperatives. The present passive imperative singular of **ferō** is **ferre** (be carried). MEMORIZE THIS IRREGULAR FORM. The plural is regular (**feriminī**, be carried \[pl.\]). **Faciō** does not have passive imperatives.
 
 The present active imperatives of **agō, agere, ēgī, āctus**, “drive,” “do,” **age** and **agite**, are often used in colloquial Latin to strengthen other commands. They may be translated “come on!” For example:
 
-- ***Age*, dōnā puellīs dōna!** *Come on*, give gifts to the girls! 
+- ***Age*, dōnā puellīs dōna!** *Come on*, give gifts to the girls!  
 - ***Agite*, ō virī, pugnāte!** *Come on*, o men, fight!
 
 ## §33. Synopsis II: Present Active and Passive Indicative, Infinitive, and Imperative
@@ -395,30 +395,31 @@ In a synopsis imperatives are always given in the second person singular and plu
 Principal Parts: **capiō, capere, cēpī, captus**  
 Person and Number: **1st pl.**
 
-|              | Active         | Translation       | Passive        | Translation             |
-| ------------ | -------------- | ----------------- | -------------- | ----------------------- |
-| *Indicative* |                |                   |                |                         |
-| Present      | **capimus**    | we are capturing  | **capimur**    | we are (being) captured |
-| Imperfect    | **capiēbāmus** | we were capturing | **capiēbāmur** | we were being captured  |
-| Future       | **capiēmus**   | we shall capture  | **capiēmur**   | we shall be captured    |
-| *Infinitive* |                |                   |                |                         |
-| Present      | **capere**     | to capture        | **capī**       | to be captured          |
-| *Imperative* |                |                   |                |                         |
-| Singular     | **cape**       | capture           | **capere**     | be captured             |
-| Plural       | **capite**     | capture (pl.)     | **capiminī**   | be captured (pl.)       |
+| | Active | Translation | Passive | Translation |
+| --- | --- | --- | --- | --- |
+| *Indicative* | | | | |
+| Present | **capimus** | we are capturing | **capimur** | we are (being) captured |
+| Imperfect | **capiēbāmus** | we were capturing | **capiēbāmur** | we were being captured |
+| Future | **capiēmus** | we shall capture | **capiēmur** | we shall be captured |
+| *Infinitive* | | | | |
+| Present | **capere** | to capture | **capī** | to be captured |
+| *Imperative* | | | | |
+| Singular | **cape** | capture | **capere** | be captured |
+| Plural | **capite** | capture (pl.) | **capiminī** | be captured (pl.) |
 
 **OBSERVATION**
+
 - In a synopsis basic English translations should be given for indicative and imperative forms.
 
-DRILL 31–33, PAGE 143, MAY NOW BE DONE.
+DRILL 31-33, PAGE 143, MAY NOW BE DONE.
 
 ## §34. Partitive Genitive
 
-When a noun in the genitive case represents the *whole* of which another noun is a *part*, it is called a **Partitive Genitive**. [^5] For example:
+When a noun in the genitive case represents the *whole* of which another noun is a *part*, it is called a **Partitive Genitive**. [^5] For example:
 
 - **Multī *incolārum* nōn labōrābunt.** Many of the *inhabitants* will not work.
 - **Nihil *odiī* habeō.** Nothing (d.o.) *of hatred* I have. / I have nothing *of hatred*.
-     
+  
 The syntax of each italicized word (**incolārum, odiī**) is **Partitive Genitive**.
 
 [^5]: The Partitive Genitive is also known as the Genitive of the Divided Whole.
@@ -430,22 +431,23 @@ When a noun in the genitive case expresses the person or thing *performing a ver
 - **Magnum erat odium *malī* in bonos.** Great was the hatred *of the bad man* against good men.
 
 **OBSERVATION**
+
 - In this sentence the syntax of the italicized word (**malī**) is **Subjective Genitive** since the bad man *feels* or *performs the action* of hating implied by the noun **odium**: the bad man (subject) *hates* the good men.
 
 ## §36. Objective Genitive
 
 When a noun in the genitive case expresses the person or thing *receiving a verbal action implied in another noun*, it is called an **Objective Genitive**. For example:
 
-- **Propter odium *dominōrum* servī nōn labōrant.**  On account of (their) hatred of *(their) masters*, the slaves are not working.
+- **Propter odium *dominōrum* servī nōn labōrant.** On account of (their) hatred of *(their) masters*, the slaves are not working.
 
 **OBSERVATIONS**
 
 1. In this sentence the syntax of the italicized word (**dominōrum**) is **Objective Genitive** since the masters *receive* or *are objects of* the action of hating implied by the noun **odium**: the slaves *hate* their masters (d.o.).
-2. An Objective Genitive is often translated more idiomatically into English with the preposition "for." Thus the sentence above may be translated "On account of (their) hatred for (their) masters, the slaves are not working."
+2. An Objective Genitive is often translated more idiomatically into English with the preposition “for.” Thus the sentence above may be translated “On account of (their) hatred for (their) masters, the slaves are not working.”
 
 In addition to depending on other nouns, an Objective Genitive may appear with certain adjectives and verbs. For example:
 
-- **Vir *aurī cupidus* poenās dabit.**  (**cupidus, -a, -um** desirous)   
+- **Vir *aurī cupidus* poenās dabit.** (**cupidus, -a, -um** desirous)  
 A man *of gold desirous* will pay the penalty.  
 A man *desirous of gold* will pay the penalty.
 
@@ -477,57 +479,57 @@ Gaius surpasses Marcus *in diligence*.
 
 The syntax of each italicized word **(cōnsiliō, sententiā, dīligentiā**) is **Ablative of Respect**.
 
-DRILL 34–37, PAGE 149, MAY NOW BE DONE.
+DRILL 34-37, PAGE 149, MAY NOW BE DONE.
 
 ## §38. Personal Pronouns
 
 A pronoun is a word used instead of a noun, and a **personal pronoun** represents the speaker(s) or writer(s) (I, we), the one(s) spoken to (you, you \[pl.\]), or the one(s) spoken about (he, she, it, they).
 
-Like nouns, personal pronouns in Latin are declined, and their declensions must be memorized. For the first- and second-person personal pronouns, MEMO-RIZE DOWN THE SINGULAR AND DOWN THE PLURAL.
+Like nouns, personal pronouns in Latin are declined, and their declensions must be memorized. For the first- and second-person personal pronouns, MEMORIZE DOWN THE SINGULAR AND DOWN THE PLURAL.
 
-|      | First Person         |                | Second Person        |                       |
-| ---- | -------------------- | -------------- | -------------------- | --------------------- |
-|      | *Singular*           |                | *Singular*           |                       |
-| Nom. | **ego**              | I              | **tū**               | you                   |
-| Gen. | **meī**              | of me          | **tuī**              | of you                |
-| Dat. | **mihi**             | to/for me      | **tibi**             | to/for you            |
-| Acc. | **mē**               | me (d.o.)      | **tē**               | you (d.o.)            |
-| Abl. | **mē**               | from me (etc.) | **tē**               | from you (etc.)       |
-|      | *Plural*             |                | *Plural*             |                       |
-| Nom. | **nōs**              | we             | **vōs**              | you (pl.)             |
-| Gen. | **nostrum / nostrī** | of us          | **vestrum / vestrī** | of you (pl.)          |
-| Dat. | **nōbīs**            | to/for us      | **vōbīs**            | to/for you (pl.)      |
-| Acc. | **nōs**              | us (d.o.)      | **vōs**              | you (pl.) (d.o.)      |
-| Abl. | **nōbīs**            | from us (etc.) | **vōbīs**            | from you (pl.) (etc.) |
+| | First Person | | Second Person | |
+| --- | --- | --- | --- | --- |
+| | *Singular* | | *Singular* | |
+| Nom. | **ego** | I | **tū** | you |
+| Gen. | **meī** | of me | **tuī** | of you |
+| Dat. | **mihi** | to/for me | **tibi** | to/for you |
+| Acc. | **mē** | me (d.o.) | **tē** | you (d.o.) |
+| Abl. | **mē** | from me (etc.) | **tē** | from you (etc.) |
+| | *Plural* | | *Plural* | |
+| Nom. | **nōs** | we | **vōs** | you (pl.) |
+| Gen. | **nostrum / nostrī** | of us | **vestrum / vestrī** | of you (pl.) |
+| Dat. | **nōbīs** | to/for us | **vōbīs** | to/for you (pl.) |
+| Acc. | **nōs** | us (d.o.) | **vōs** | you (pl.) (d.o.) |
+| Abl. | **nōbīs** | from us (etc.) | **vōbīs** | from you (pl.) (etc.) |
 
 **OBSERVATIONS**
 
 1. Personal pronouns do not have vocative forms.
-2. Since the inflectional endings of finite verbs indicate the subject (**-ō** = "I," **-s** = "you," etc.), the nominative forms of all personal pronouns are not required in a Latin sentence. Nominative case forms of personal pronouns are most often used for added emphasis. For example:
-	- ***Ego* ambulō, nōn *tū*.** *I* am walking, not *you*.
+2. Since the inflectional endings of finite verbs indicate the subject (**-ō** = “I,” **-s** = “you,” etc.), the nominative forms of all personal pronouns are not required in a Latin sentence. Nominative case forms of personal pronouns are most often used for added emphasis. For example:
+   - ***Ego* ambulō, nōn *tū*.** *I* am walking, not *you*.
 3. In the singular the genitive forms of the first- and second-person personal pronouns (**meī, tuī**) are used *only* as Partitive or Objective Genitives (§§34 and 36). In the plural these functions of the genitive are distinguished by different endings: **nostrum, vestrum** = Partitive, **nostrī, vestrī** = Objective. For example:
-	- **Habēsne odium *meī*?** Do you have a hatred *of me*? (objective)
-	- **Multī *nostrum* rēgīnam amant**. Many *of us* love the queen. (partitive)
-	- **Magnum erat odium *vestrī*.** Hatred *of you (pl.)* was great. (objective)
+   - **Habēsne odium *meī*?** Do you have a hatred *of me*? (objective)
+   - **Multī *nostrum* rēgīnam amant**. Many *of us* love the queen. (partitive)
+   - **Magnum erat odium *vestrī*.** Hatred *of you (pl.)* was great. (objective)
 4. When a first- or second-person personal pronoun functions as an Ablative of Accompaniment, the preposition **cum** is attached directly to the pronoun. Thus, **mēcum** (with me), **nōbīscum** (with us), **tēcum** (with you), and **vōbīscum** (with you \[pl.\])
 
 MEMORIZE THE DECLENSION OF THE THIRD-PERSON PERSONAL PRONOUN ACROSS THE SINGULAR AND THEN ACROSS THE PLURAL (**is, ea, id, eius, eius, eius** ...).
 
-| Third Person | *Singular*   |                  |             |                  |             |                  |
-| ------------ | ------------ | ---------------- | ----------- | ---------------- | ----------- | ---------------- |
-|              | M.           |                  | F.          |                  | N.          |                  |
-| Nom.         | **is**       | he               | **ea**      | she              | **id**      | it               |
-| Gen.         | **eius**     | of him           | **eius**    | of her           | **eius**    | of it            |
-| Dat.         | **eī**       | to/for him       | **eī**      | to/for her       | **eī**      | to/for it        |
-| Acc.         | **eum**      | him (d.o.)       | **eam**     | her (d.o.)       | **id**      | it (d.o.)        |
-| Abl.         | **eō**       | from him (etc.)  | **eā**      | from her (etc.)  | **eō**      | from it (etc.)   |
-|              | ***Plural*** |                  |             |                  |             |                  |
-|              | M.           |                  | F.          |                  | N.          |                  |
-| Nom.         | **eī/iī**    | they             | **eae**     | they             | **ea**      | they             |
-| Gen.         | **eōrum**    | of them          | **eārum**   | of them          | **eōrum**   | of them          |
-| Dat.         | **eīs/iīs**  | to/for them      | **eīs/iīs** | to/for them      | **eīs/iīs** | to/for them      |
-| Acc.         | **eōs**      | them (d.o.)      | **eās**     | them (d.o.)      | **ea**      | them (d.o.)      |
-| Abl.         | **eīs/iīs**  | from them (etc.) | **eīs/iīs** | from them (etc.) | **eīs/iīs** | from them (etc.) |
+| Third Person | *Singular* | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | M. | | F. | | N. | |
+| Nom. | **is** | he | **ea** | she | **id** | it |
+| Gen. | **eius** | of him | **eius** | of her | **eius** | of it |
+| Dat. | **eī** | to/for him | **eī** | to/for her | **eī** | to/for it |
+| Acc. | **eum** | him (d.o.) | **eam** | her (d.o.) | **id** | it (d.o.) |
+| Abl. | **eō** | from him (etc.) | **eā** | from her (etc.) | **eō** | from it (etc.) |
+| | ***Plural*** | | | | | |
+| | M. | | F. | | N. | |
+| Nom. | **eī/iī** | they | **eae** | they | **ea** | they |
+| Gen. | **eōrum** | of them | **eārum** | of them | **eōrum** | of them |
+| Dat. | **eīs/iīs** | to/for them | **eīs/iīs** | to/for them | **eīs/iīs** | to/for them |
+| Acc. | **eōs** | them (d.o.) | **eās** | them (d.o.) | **ea** | them (d.o.) |
+| Abl. | **eīs/iīs** | from them (etc.) | **eīs/iīs** | from them (etc.) | **eīs/iīs** | from them (etc.) |
 
 **OBSERVATIONS**
 
@@ -535,37 +537,37 @@ MEMORIZE THE DECLENSION OF THE THIRD-PERSON PERSONAL PRONOUN ACROSS THE SINGULAR
 2. All forms of **is, ea, id** are disyllabic with these exceptions: **is, id** (monosyllabic), **eōrum, eārum, eōrum** (trisyllabic).
 
 3. When a form of **is, ea, id** refers to a person or thing previously mentioned, it agrees in *gender* and *number* with the noun to which it refers. For example:
-	- **Liber pulcher puellae dabitur. *Eumne* habēs?**  
-	The beautiful book will be given to the girl. Do you have *it*? (**eum** refers to **liber**)
+   - **Liber pulcher puellae dabitur. *Eumne* habēs?**  
+   The beautiful book will be given to the girl. Do you have *it*? (**eum** refers to **liber**)
 
 The personal pronoun **is, ea, id** was in origin a demonstrative adjective (this, that; these, those), and the demonstrative adjective remained in use. A **demonstrative adjective** (< **dēmōnstrō**, point out) regularly precedes the noun it modifies and serves to *point out* that noun. For example:
 
-- **eum virum** this (*or* that) man (d.o.) (**eum** is a demonstrative adj. modifying **virum**) 
+- **eum virum** this (*or* that) man (d.o.) (**eum** is a demonstrative adj. modifying **virum**)  
 - **ea perīcula** these (*or* those) dangers (subj. or d.o.) (**ea** is a demonstrative adj. modifying **perīcula**)
 
 ## §39. Possessive Adjectives
 
 A noun in the genitive case may express ownership or possession: **liber *puerī*** (the book *of the boy*) (§1). However, the genitives of the first- and second-person personal pronouns (**meī, nostrum/nostri, tuī, vestrum/vestri**) are not used to express possession (§38). There are instead **possessive adjectives** that correspond to each personal pronoun:
 
-| Personal Pronoun |           | *Corresponding Possessive Adjective* |                   |
-| ---------------- | --------- | ------------------------------------ | ----------------- |
-| **ego**          | I         | **meus, -a, -um**                    | my, mine          |
-| **nōs**          | we        | **noster, nostra, nostrum**          | our, ours         |
-| **tū**           | you       | **tuus, -a, -um**                    | your, yours       |
-| **vōs**          | you (pl.) | **vester, vestra, vestrum**          | your, yours (pl.) |
+| Personal Pronoun | | *Corresponding Possessive Adjective* | |
+| --- | --- | --- | --- |
+| **ego** | I | **meus, -a, -um** | my, mine |
+| **nōs** | we | **noster, nostra, nostrum** | our, ours |
+| **tū** | you | **tuus, -a, -um** | your, yours |
+| **vōs** | you (pl.) | **vester, vestra, vestrum** | your, yours (pl.) |
 
 **OBSERVATIONS**
 
 1. **Meus, noster, tuus**, and **vester** are all first-second-declension adjectives.
 2. Like all adjectives, possessive adjectives agree with the nouns they modify in gender, number, and case. They may precede or follow the nouns they modify. For example:
 
-	- **meās fīliās** my daughters (d.o.) 
-	- **patriā nostrā** from our homeland (etc.) 
-	- **dominus vester** your (pl.) master (subj.)
+   - **meās fīliās** my daughters (d.o.)  
+   - **patriā nostrā** from our homeland (etc.)  
+   - **dominus vester** your (pl.) master (subj.)
 
 3. Possessive adjectives may function as substantives. For example:
-	- **meōrum** of my men *or* my things
-	- **tuōs** your men (d.o.)
+   - **meōrum** of my men *or* my things
+   - **tuōs** your men (d.o.)
 
 4. The masculine singular vocative form of **meus** is **mī**. MEMORIZE THIS IRREGULAR VOCATIVE FORM.
 
@@ -573,24 +575,23 @@ A noun in the genitive case may express ownership or possession: **liber *puerī
 
 The third-person personal pronoun (**is, ea, id**) does not have a corresponding possessive adjective. Rather, the genitive singular and genitive plural forms are used as Genitives of Possession. For example:
 
-- **librōs *eius*** 
-the books (d.o.) *of him / of her* 
+- **librōs *eius***  
+the books (d.o.) *of him / of her*  
 *his/her* books (d.o.)
 
-- **rēgīna *eōrum*** 
-the queen (subj.) *of them* (m.) 
+- **rēgīna *eōrum***  
+the queen (subj.) *of them* (m.)  
 *their* queen (subj.)
 
-| Summary of Possession |                                  |                            |                                                                                         |
-| --------------------- | -------------------------------- | -------------------------- | --------------------------------------------------------------------------------------- |
-| First Person          | **meus fīlius<br>noster fīlius** | my son<br>our son          | **meus** and **noster** are possessive adjectives modifying **fīlius**                  |
-| Second Person         | **tuus fīlius<br>vester fīlius** | your son<br>your (pl.) son | **tuus** and **vester** are possessive adjectives modifying **fīlius**                  |
-| Third Person          | **fīlius eius<br>fīlius eōrum**  | his/her son<br>their son   | **eius** and **eōrum** are personal pronouns in the genitive case expressing possession |
+| Summary of Possession | | | |
+| --- | --- | --- | --- |
+| First Person | **meus fīlius<br>noster fīlius** | my son<br>our son | **meus** and **noster** are possessive adjectives modifying **fīlius** |
+| Second Person | **tuus fīlius<br>vester fīlius** | your son<br>your (pl.) son | **tuus** and **vester** are possessive adjectives modifying **fīlius** |
+| Third Person | **fīlius eius<br>fīlius eōrum** | his/her son<br>their son | **eius** and **eōrum** are personal pronouns in the genitive case expressing possession |
 
-Drill 38–39, PAGE 153, MAY NOW BE DONE.
+DRILL 38-39, PAGE 153, MAY NOW BE DONE.
 
-## Short Reading
-
+## Short Readings
 
 1. Andronicus translates the first line of Homer’s *Odyssey* into Latin.  
    Virum mihī, Camēna, īnsece versūtum... (LIVIUS ANDRONICUS, *ODYSSEY* FRAG. 1)  
@@ -600,30 +601,30 @@ Drill 38–39, PAGE 153, MAY NOW BE DONE.
 
 2. His beloved prostitute Lemniselenis greets the slave Toxilus with a question.  
    Toxile mī, cūr ego sine tē sum?  
-   cūr tū autem sine mē’s?  (PLAUTUS, *PERSA* 763–64)  
+   cūr tū autem sine mē’s? (PLAUTUS, *PERSA* 763–64)  
    **Toxilus, Toxilī** *m.* Toxilus  
    **autem** (adv.) moreover  
    **mē’s** = **mē es**[^6]
 
 3. One drunk slave sings the following to another.  
-   ego tū sum, tū es ego: ūnanimī sumus.  (PLAUTUS, *STICHUS* 731)  
+   ego tū sum, tū es ego: ūnanimī sumus. (PLAUTUS, *STICHUS* 731)  
    **ūnanimus, -a, -um** of one mind; harmonious
 
 4. Demea wonders that his brother Micio is not more upset about his nephew’s troubles.  
    De. Dīc mihī,  
    nōn clāmās? nōn īnsānīs?  
-   Mi. Nōn.  (TERENCE, *ADELPHOE* 725–27)  
+   Mi. Nōn. (TERENCE, *ADELPHOE* 725–27)  
    **De.** = Demea  
    **clāmō** (1-intr.) shout  
    **īnsāniō, īnsānīre, īnsāniī/īnsānīvī, īnsānītum** be mad, rage  
    **Mi.** = Micio
 
 5. A fragment from a comic play  
-   audīte, puerī, pauca: vōs succēdite.  (L. AFRANIUS, *TOGĀTAE* FRAG. 153)  
+   audīte, puerī, pauca: vōs succēdite. (L. AFRANIUS, *TOGĀTAE* FRAG. 153)  
    **succēdō, succēdere, successī, successum** approach, draw near
 
 6. Varro explains the different shades of meaning of certain Latin verbs.  
-   potest<sup>&dagger;</sup> enim aliquid facere et nōn agere, ut poēta facit fābulam et nōn agit; contrā āctor agit et nōn facit, ... contrā imperātor ... neque facit neque agit sed gerit...   (VARRO, *DĒ LINGUĀ LATĪNĀ* VI.77)  
+   potest<sup>&dagger;</sup> enim aliquid facere et nōn agere, ut poēta facit fābulam et nōn agit; contrā āctor agit et nōn facit, ... contrā imperātor ... neque facit neque agit sed gerit... (VARRO, *DĒ LINGUĀ LATĪNĀ* VI.77)  
    <sup>&dagger;</sup> **potest**, *subject is “one”*  
    **aliquid** = neut. sing. acc. of indef. pron., something  
    **ut** (conj.) as  
@@ -633,67 +634,66 @@ Drill 38–39, PAGE 153, MAY NOW BE DONE.
    **imperātor** = masc. sing. nom., general, commander
 
 7. In a discussion of immortality the Roman epic poet Ennius is paraphrased.  
-   Rōmulus in caelō cum dīs agit aevum.  (CICERO, *TUSCULĀNAE DISPUTĀTIŌNĒS* I.28) 
+   Rōmulus in caelō cum dīs agit aevum. (CICERO, *TUSCULĀNAE DISPUTĀTIŌNĒS* I.28)  
    **aevum, aevī** *n.* age, lifetime; life
 
-8. A Stoic view of the gods   
-   magna dī cūrant, parva neglegunt.  (CICERO, *DĒ NĀTŪRĀ DEŌRUM* II.167)  
+8. A Stoic view of the gods  
+   magna dī cūrant, parva neglegunt. (CICERO, *DĒ NĀTŪRĀ DEŌRUM* II.167)  
    **cūrō** (1-tr.) watch over, look after  
-   **neglegō, neglegere, neglēxī, neglēctus** overlook, neglect
-
+   **neglegō, neglegere, neglēxī, neglēctus** overlook, neglect  
    **Some Roman proverbs**
 
-9. amāre et sapere vix deō concēditur.  (PUBLILIUS SYRUS, *SENTENTIAE* A22)  
+9. amāre et sapere vix deō concēditur. (PUBLILIUS SYRUS, *SENTENTIAE* A22)  
    **sapiō, sapere, sapiī/sapīvī, —** be intelligent, show good sense, be sensible  
    **vix** (adv.) scarcely, hardly  
    **concēdō, concēdere, concessī, concessus** concede, grant; permit
 
-10. animō virum pudīcae nōn oculō ēligunt.  (PUBLILIUS SYRUS, *SENTENTIAE* A36)  
-   **pudīcus, -a, -um** chaste, pure, honorable  
-   **oculus, oculī** *m.* eye  
-   **ēligō, ēligere, ēlēgī, ēlēctus** select, choose
+10. animō virum pudīcae nōn oculō ēligunt. (PUBLILIUS SYRUS, *SENTENTIAE* A36)  
+    **pudīcus, -a, -um** chaste, pure, honorable  
+    **oculus, oculī** *m.* eye  
+    **ēligō, ēligere, ēlēgī, ēlēctus** select, choose
 
-11. numquam perīclum sine perīclō vīncitur.  (PUBLILIUS SYRUS, *SENTENTIAE* N7)  
-   **numquam** (adv.) never  
-   **perīclum, perīclō** = **perīculum, perīculō**  
-   **vincō, vincere, vīcī, victus** conquer, overcome
+11. numquam perīclum sine perīclō vīncitur. (PUBLILIUS SYRUS, *SENTENTIAE* N7)  
+    **numquam** (adv.) never  
+    **perīclum, perīclō** = **perīculum, perīculō**  
+    **vincō, vincere, vīcī, victus** conquer, overcome
 
-12. satis est superāre inimīcum, nimium est perdere.  (PUBLILIUS SYRUS, *SENTENTIAE* S44)  
-   **satis** (indeclinable subst.) enough  
-   **nimium** (indeclinable subst.) too much  
-   **perdō, perdere, perdidī, perditus** destroy
+12. satis est superāre inimīcum, nimium est perdere. (PUBLILIUS SYRUS, *SENTENTIAE* S44)  
+    **satis** (indeclinable subst.) enough  
+    **nimium** (indeclinable subst.) too much  
+    **perdō, perdere, perdidī, perditus** destroy
 
 13. With these opening words the poet suggests that his epic poem will be a blend of the *Iliad* and the *Odyssey*.  
-   Arma virumque canō...  (VERGIL, *AENEID* I.1)
+    Arma virumque canō... (VERGIL, *AENEID* I.1)  
 
 14. In expressing his preference for country life over life in the city, the poet makes a bold claim.  
-   nātūram expellēs furcā, tamen ūsque recurret.  (HORACE, *EPISTULAE* I.10.24)  
-   **nātūra, nātūrae** *f.* nature  
-   **expellō, expellere, expulī, expulsus** drive out  
-   **furca, furcae** *f.* pitchfork  
-   **tamen** (adv.) nevertheless  
-   **ūsque** (adv.) continuously  
-   **recurrō, recurrere, recurrī, recursum** run back, rush back
+    nātūram expellēs furcā, tamen ūsque recurret. (HORACE, *EPISTULAE* I.10.24)  
+    **nātūra, nātūrae** *f.* nature  
+    **expellō, expellere, expulī, expulsus** drive out  
+    **furca, furcae** *f.* pitchfork  
+    **tamen** (adv.) nevertheless  
+    **ūsque** (adv.) continuously  
+    **recurrō, recurrere, recurrī, recursum** run back, rush back
 
-15. The chorus of a tragic play comments on the nature of rulers.   
-   metuī cupiunt metuīque timent.  (SENECA THE YOUNGER, *AGAMEMNŌN* 73)  
-   **metuō, metuere, metuī, —** fear, dread  
-   **cupiō, cupere, cupiī/cupīvī, cupītus** desire, long for, want
+15. The chorus of a tragic play comments on the nature of rulers.  
+    metuī cupiunt metuīque timent. (SENECA THE YOUNGER, *AGAMEMNŌN* 73)  
+    **metuō, metuere, metuī, —** fear, dread  
+    **cupiō, cupere, cupiī/cupīvī, cupītus** desire, long for, want
 
 16. The philosopher summarizes the difference between his own attitude toward wealth and his brother’s.  
-   ... dīvitiae meae sunt, tū es dīvitiārum.  (SENECA THE YOUNGER, *DIALOGĪ* VII.22.5)  
-   **dīvitiae, dīvitiārum** *f. pl.* riches, wealth
+    ... dīvitiae meae sunt, tū es dīvitiārum. (SENECA THE YOUNGER, *DIALOGĪ* VII.22.5)  
+    **dīvitiae, dīvitiārum** *f. pl.* riches, wealth
 
 17. The poet has a brief message for Sabidius.  
-   Nōn amo<sup>&dagger;</sup> tē, Sabidī, nec possum dīcere quārē;  
-   hoc tantum possum dīcere: nōn amo\* tē.  (MARTIAL I.32)  
-   <sup>&dagger;</sup> The **-ō** of **amō** here scans *short*.  
-   **Sabidius, Sabidiī** *m.* Sabidius (an acquaintance of the poet)  
-   **quārē** (interrog. adv.) why  
-   **hoc** = neut. sing. acc. of demonstr. pron., this thing  
-   **tantum** (adv.) only
+    Nōn amo<sup>&dagger;</sup> tē, Sabidī, nec possum dīcere quārē;  
+    hoc tantum possum dīcere: nōn amo\* tē. (MARTIAL I.32)  
+    <sup>&dagger;</sup> The **-ō** of **amō** here scans *short*.
+    **Sabidius, Sabidiī** *m.* Sabidius (an acquaintance of the poet)  
+    **quārē** (interrog. adv.) why  
+    **hoc** = neut. sing. acc. of demonstr. pron., this thing  
+    **tantum** (adv.) only
 
 18. A Roman inscription  
-   Cape mē; tua sum.  (*CIL* I.1499)
+    Cape mē; tua sum. (*CIL* I.1499)  
 
 [^6]: When **es** or **est** follows a word ending in **-m** or **-e**, it may drop the initial **e-** and join the preceding word. This is called **aphaeresis** (< Greek *aphaeresis*, taking away).
