@@ -640,8 +640,9 @@ DRILL 38-39, PAGE 153, MAY NOW BE DONE.
 8. A Stoic view of the gods  
    magna dī cūrant, parva neglegunt. (CICERO, *DĒ NĀTŪRĀ DEŌRUM* II.167)  
    **cūrō** (1-tr.) watch over, look after  
-   **neglegō, neglegere, neglēxī, neglēctus** overlook, neglect  
-   **Some Roman proverbs**
+   **neglegō, neglegere, neglēxī, neglēctus** overlook, neglect
+   
+Some Roman proverbs
 
 9. amāre et sapere vix deō concēditur. (PUBLILIUS SYRUS, *SENTENTIAE* A22)  
    **sapiō, sapere, sapiī/sapīvī, —** be intelligent, show good sense, be sensible  
