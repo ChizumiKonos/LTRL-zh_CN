@@ -55,7 +55,7 @@
 ➤ **iūre** (adv.) rightly, justly  
 **omnīnō** (adv.) entirely; at all  
 ➤ **sub** (prep. + acc.) under; up to; (prep. + abl.) under; at the foot of; near  
-**umquam** (adv.) ever
+**umquam** (adv.) ever  
 　**numquam** (adv.) never  
 
 ## Vocabulary Notes
