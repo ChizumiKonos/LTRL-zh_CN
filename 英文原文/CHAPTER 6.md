@@ -2,13 +2,13 @@
 
 ## Vocabulary
 
-➤ **Athēnae, Athēnārum** *f. pl.* Athens
+➤ **Athēnae, Athēnārum** *f. pl.* Athens  
 ➤ **Rōma, Rōmae** *f.* Rome  
 
 **dictum, dictī** *n.* word; saying  
 **domus, domī** *f.* house, home  
 
-➤ **amor, amōris** *m.* love
+➤ **amor, amōris** *m.* love  
 **animal, animālis, -ium** *n.* animal  
 ➤ **carmen, carminis** *n.* song, poem  
 ➤ **Carthāgō, Carthāginis** *f.* Carthage  
@@ -19,14 +19,14 @@
 ➤ **iūs, iūris** *n.* right, law; judgment; court  
 ➤ **mare, maris, \*-ium** *n.* sea  
 **māter, mātris** *f.* mother  
-➤ **mēns, mentis, -ium** *f.* mind; intention, purpose; attitude
+➤ **mēns, mentis, -ium** *f.* mind; intention, purpose; attitude  
 **mīles, mīlitis** *m.* soldier  
 ➤ **moenia, moenium** *n.* *pl.* (city) walls  
 **pater, patris** *m.* father  
-　➤ **patrēs cōnscrīptī**, *voc. pl.* enrolled fathers, senators
+　➤ **patrēs cōnscrīptī**, *voc. pl.* enrolled fathers, senators  
 **rēx, rēgis** *m.* king  
 ➤ **rūs, rūris** *n. sing.* or *pl.*, country(side)  
-➤ **servitūs, servitūtis** *f.* slavery
+➤ **servitūs, servitūtis** *f.* slavery  
 **timor, timōris** *m.* fear  
 ➤ **urbs, urbis, -ium** *f.* city  
 ➤ **vīs, —, -ium** *f.* force, power; violence; *pl.*, strength (§55)  
@@ -42,10 +42,10 @@
 **ācer, ācris, acre** sharp, keen; fierce  
 ➤ **facilis, facile** easy  
 ➤ **difficilis, difficile** difficult  
-➤ **fēlīx, fēlīcis** lucky, fortunate, happy
+➤ **fēlīx, fēlīcis** lucky, fortunate, happy  
 　**īnfēlīx, infēlīcis** unlucky, unfortunate, unhappy  
-**fortis, forte** brave; strong
-**ingēns, ingentis** huge, vast; remarkable
+**fortis, forte** brave; strong  
+**ingēns, ingentis** huge, vast; remarkable  
 **omnis, omne** every; all  
 
 ➤ **autem** (postpositive conj.) however; moreover  
@@ -1150,7 +1150,7 @@ Proper names in Latin may belong to the first, second, or third declension. Many
 
 The Roman poet Ennius composed two dactylic hexameter [^10] lines that contain the names of the twelve principal Olympian gods:  
 
-**Iūnō Vesta Minerva Cerēs Dīāna Venus Mars**
+**Iūnō Vesta Minerva Cerēs Dīāna Venus Mars**  
 **Mercurius Iovis Neptūnus Volcānus Apollō** [^11]
 
 Although the Romans borrowed much from Greek literature and culture, many aspects of Roman religion, including most of the names of their gods, have native Italic origins. Many Italic deities lost their original significance through being identified with a particular god of the Greek pantheon. For example, although Mars became the name for the war god in classical Rome, the name originally belonged to an Italic god of agriculture.  
