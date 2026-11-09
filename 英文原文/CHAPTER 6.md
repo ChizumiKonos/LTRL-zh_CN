@@ -312,12 +312,12 @@ I shall give aid to the wives *of the killed men*.
 
 Intransitive verbs whose fourth principal parts end in **-um** ordinarily do not have any forms in the passive voice. Sometimes, however, such verbs appear in *third person singular* passive forms with *no expressed subjects*. The third person singular passive (in any tense and any mood) of an intransitive verb is called the **impersonal passive**. (The word **impersonal** means “having no personal subject.”) Such a form reports and emphasizes that the action of the verb is being done (will be done, was done, etc.) but gives no indication of who performs that action. For example:  
 
-- **Per viās errātur.**
-Through the streets wandering is being done.
+- **Per viās errātur.**  
+Through the streets wandering is being done.  
 There is (a) wandering through the streets.
 
-- **Bene pugnātum est in prōvinciā.**
-Fighting was done well in the province.
+- **Bene pugnātum est in prōvinciā.**  
+Fighting was done well in the province.  
 There was good fighting in the province.
 
 **OBSERVATIONS**
@@ -473,9 +473,9 @@ Third-declension adjectives may have three forms (m., f., n.), two forms (m./f.,
 
 To find the stem of third-declension adjectives with three or two nominative singular forms, take the *feminine singular nominative* and drop the ending **-is**. To find the stem of third-declension adjectives with one nominative singular form, take the *genitive singular* and drop the ending **-is**. Thus, for the examples above:  
 
-**ācer, *ācr*is, ācre** Stem = **ācr-**
-***fort*is, forte** Stem = **fort-**
-**fēlīx, *fēlīc*is** Stem = **fēlīc-**
+- **ācer, *ācr*is, ācre** Stem = **ācr-**
+- ***fort*is, forte** Stem = **fort-**
+- **fēlīx, *fēlīc*is** Stem = **fēlīc-**
 
 To decline a third-declension adjective, add these endings to the stem:  
 
@@ -581,15 +581,15 @@ The syntax of each italicized word (**īrā, odiō**) is **Ablative of Cause**.
 
 When a noun in the ablative case is used to express *motion from a place*, it is called an **Ablative of Place From Which**. The prepositions **ā/ab**, **ē/ex**, or **dē** are regularly used. However, the *prepositions are omitted with names of cities, towns, and small islands, and the nouns **domus** and **rūs***. For example:  
 
-- **Ab *Italiā* vēla dedimus.**
-*Away from Italy* we set sail.
+- **Ab *Italiā* vēla dedimus.**  
+*Away from Italy* we set sail.  
 We set sail *(away) from Italy*.
 
-- **Agēbāmur ex *patriā*.**
+- **Agēbāmur ex *patriā*.**  
 We were being driven *out from the country*.
 
-- ***Rōmā* discēdam.**
-*From Rome* I shall depart.
+- ***Rōmā* discēdam.**  
+*From Rome* I shall depart.  
 I shall depart *from Rome*.
 
 The syntax of each italicized word (**Italiā, patriā, Rōmā**) is **Ablative of Place From Which**. The Ablative of Place From Which is a particular variety of the Ablative of Separation.  
@@ -694,7 +694,7 @@ DRILL 58-62, PAGE 253, MAY NOW BE DONE.
 
 6. As part of his defense of a man charged with murder, Cicero reminds the jurors of the atmosphere in a politically disturbed city.  
 
-   silent lēgēs inter arma . . . (CICERO, *PRŌ MILŌNE* 11)
+   silent lēgēs inter arma ... (CICERO, *PRŌ MILŌNE* 11)
 
    **sileō, silēre, siluī, —** be silent  
    **lēx, lēgis** *f.* law
